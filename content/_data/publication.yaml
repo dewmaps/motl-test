@@ -37,8 +37,7 @@ publisher:
   - name: The Newberry Library
     location: Chicago
     url:
-    logo: 
-
+    logo: newberrylogo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
