@@ -46,12 +46,12 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id:  
-    type: 
-    first_name: 
-    last_name: 
-    title: 
-    affiliation:
+  - id: lyone 
+    type: primary
+    first_name: Emily
+    last_name: Lyon
+    title: Postdoctoral Fellow in Public History
+    affiliation: Northwestern University
     bio: ""
     url: 
     image: 
