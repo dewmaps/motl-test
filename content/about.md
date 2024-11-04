@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-order: 7
+order: 503
 outputs:
   - html
 ---
