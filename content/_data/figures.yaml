@@ -122,7 +122,6 @@ figure_list:
     src: nycsubway.jpg
     caption: "*Unsigned maps designed by graphic artist and architect Massimo Vignelli, 1972."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "ctamap"
     src: ctamap.jpg
