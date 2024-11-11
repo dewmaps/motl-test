@@ -30,3 +30,12 @@ object_list:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
+
+  - id: 3
+    title: New York City Subway Map
+    year: 1972
+    artist: Massimo Vignelli
+    dimensions: 44 x 44 cm and 44 x 46 cm, sheet 54 x 46 cm, folded to 18 x 10 cm. 
+
+
+      
