@@ -116,6 +116,9 @@ figure_list:
     credit: The J. Paul Getty Museum, Los Angeles
 
   - id: "nycsubway"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSFHT9BC
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSQPT9JK
+    printImage: nycsubway.jpg
     src: nycsubway.jpg
     caption: "*Unsigned maps designed by graphic artist and architect Massimo Vignelli, 1972."
     credit: "Newberry Library"
