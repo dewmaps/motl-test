@@ -57,7 +57,7 @@ object_list:
     location: David Rumsey Historical Map Collection
     figure:
       - id: "roadfromlondon"
-      
+
   - id: 6
     title: A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile according to Mr. Edw. Wrights projection
     year: 1720
@@ -67,4 +67,11 @@ object_list:
     figure:
       - id: "generallchart"
 
-      
+  - id: 7
+    title: Physiographic Diagram, Atlantic Ocean (Sheet 1)
+    year: 1957
+    artist: Marie Tharp and Bruce Heezen
+    dimensions: 77 x 142 cm 
+    location: David Rumsey Historical Map Collection
+    figure:
+      - id: "physio-diagram"   

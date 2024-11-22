@@ -64,12 +64,13 @@ figure_list:
     caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
     credit: "© J. Paul Getty Trust"
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
+  - id: "physio-diagram"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/canvas/c1 
+    printImage: physiographicdiagram.jpg
+    src: physiographicdiagram.jpg
+    caption: "Marie Tharp and Bruce Heezen, Physiographic Diagram, Atlantic Ocean (Sheet 1), 1957."
+    credit: David Rumsey Map Collection
 
   - id: "mother-variants"
     label: "Figure 1.1"
