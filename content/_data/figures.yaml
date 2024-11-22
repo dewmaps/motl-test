@@ -100,7 +100,7 @@ figure_list:
 
   - id: "generallchart"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSK4L5EB
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4TUER
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
     printImage: a-generall-chart.jpg
     src: a-generall-chart.jpg
     caption: "A map by R. Mount and T. Page from 1720, with rhumb lines across the Atlantic Ocean."
