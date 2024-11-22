@@ -40,6 +40,14 @@ object_list:
     figure:
       - id: "nycsubway"
 
+  - id: 4
+    title: 
+    year: 1918
+    artist: J. Gabrys
+    dimensions: 81 x 107 cm + text (21 pages ; 21 cm)
+    location: Norman B. Leventhal Map & Education Center
+    figure:
+      - id: "carteethno"
 
 
       
