@@ -98,12 +98,13 @@ figure_list:
           - src: "figures/lange-layers/thumb.png"
             selected: true
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
+  - id: "generallchart"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSK4L5EB
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4TUER
+    printImage: a-generall-chart.jpg
+    src: a-generall-chart.jpg
+    caption: "A map by R. Mount and T. Page from 1720, with rhumb lines across the Atlantic Ocean."
+    credit: The Newberry Library
 
   - id: "roadfromlondon"
     src: road-from-london.jpg

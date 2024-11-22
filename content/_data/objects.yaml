@@ -36,7 +36,7 @@ object_list:
     year: 1972
     artist: Massimo Vignelli
     dimensions: 44 x 44 cm and 44 x 46 cm, sheet 54 x 46 cm, folded to 18 x 10 cm. 
-    location: Newberry Library
+    location: The Newberry Library
     figure:
       - id: "nycsubway"
 
@@ -57,5 +57,14 @@ object_list:
     location: David Rumsey Historical Map Collection
     figure:
       - id: "roadfromlondon"
+      
+  - id: 6
+    title: A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile according to Mr. Edw. Wrights projection
+    year: 1720
+    artist: R. Mount and T. Page
+    dimensions: 447 x 563 mm (neat line), on sheet remargined to 486 x 596 mm
+    location: The Newberry Library
+    figure:
+      - id: "generallchart"
 
       
