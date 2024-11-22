@@ -85,3 +85,12 @@ object_list:
     location: The Library of Congress, Geography and Map Division
     figure:
       - id: "universale"
+
+  - id: 9
+    title: Stanford's Library Map of London and Its Suburbs
+    year: 1866
+    artist: Edward Stanford
+    dimensions: 192 x 164 cm.
+    location: David Rumsey Historical Map Collection
+    figure:
+      - id: "stanfordslondon"

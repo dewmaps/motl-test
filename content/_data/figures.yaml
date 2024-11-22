@@ -34,11 +34,13 @@ figure_list:
     caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
 
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "stanfordslondon"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/manifest 
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/canvas/c1
+    printImage: stanfordslondon.jpg
+    src: stanfordslondon.jpg
+    caption: "Edward Stanford, Map of London and Its Suburbs, 1866."
+    credit: "David Rumsey Historical Map Collection"
 
   - id: "universale"
     manifestId: https://www.loc.gov/item/85690919/manifest.json 
