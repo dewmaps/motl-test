@@ -105,10 +105,13 @@ figure_list:
     download: true
     zoom: true
 
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "roadfromlondon"
+    src: road-from-london.jpg
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
+    printImage: road-from-london.jpg
+    caption: "From Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales: By a Geographical and Historical Description of the Principal Roads thereof, by Ogilby Chubb."
+    credit: David Rumsey Historical Map Collection
 
   - id: "carteethno"
     manifestId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/manifest

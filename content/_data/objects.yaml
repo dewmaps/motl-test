@@ -49,5 +49,13 @@ object_list:
     figure:
       - id: "carteethno"
 
+  - id: 5
+    title: Road from London
+    year: 1675
+    artist: John Ogilby
+    dimensions: 33 x 46 cm 
+    location: David Rumsey Historical Map Collection
+    figure:
+      - id: "roadfromlondon"
 
       
