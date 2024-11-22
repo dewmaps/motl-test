@@ -110,10 +110,10 @@ figure_list:
     caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
     credit: The J. Paul Getty Museum, Los Angeles
 
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "carteethno"
+    src: carte-ethnographique.jpg
+    caption: "1918 map by J. Gabrys. Shows the ethnography of Europe, including eastern Europe, parts of Russia and Turkey."
+    credit: Normal B. Leventhal Map & Education 
 
   - id: "nycsubway"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSFHT9BC
