@@ -111,7 +111,7 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
     printImage: road-from-london.jpg
-    caption: "From Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales: By a Geographical and Historical Description of the Principal Roads thereof, by Ogilby Chubb."
+    caption: "From Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales...by John Ogilby."
     credit: David Rumsey Historical Map Collection
 
   - id: "carteethno"
