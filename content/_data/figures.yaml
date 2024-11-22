@@ -42,7 +42,7 @@ figure_list:
 
   - id: "universale"
     manifestId: https://www.loc.gov/item/85690919/manifest.json 
-    canvasId: https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:mf000070 
+    canvasId: https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:mf000070/full/pct:25/0/default.jpg
     printImage: universale.jpg
     src: universale.jpg
     caption: "Ferando Bertelli, Universale descrittione di tutta la terra conosciuta fin qui, 1565. Based on an earlier map by Giacomo Gastaldi."
