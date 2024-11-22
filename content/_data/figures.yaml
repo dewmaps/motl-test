@@ -49,6 +49,7 @@ figure_list:
     src: universale.jpg
     caption: "Ferando Bertelli, Universale descrittione di tutta la terra conosciuta fin qui, 1565. Based on an earlier map by Giacomo Gastaldi."
     credit: The Library of Congress, Geography and Map Division
+    zoom: true
 
   - id: "vid-1"
     poster: figures/evans-video-still.jpg
