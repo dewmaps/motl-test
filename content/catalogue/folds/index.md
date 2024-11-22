@@ -1,6 +1,6 @@
 ---
 epub: false
-title: Catalogue
+title: Folds
 layout: table-of-contents
 presentation: grid
 order: 125

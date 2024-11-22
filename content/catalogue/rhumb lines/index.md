@@ -1,6 +1,6 @@
 ---
 epub: false
-title: Catalogue
+title: Rhumb Lines
 layout: table-of-contents
 presentation: grid
 order: 135
