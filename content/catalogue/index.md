@@ -2,6 +2,6 @@
 epub: false
 title: Catalogue
 layout: table-of-contents
-presentation: grid
+presentation: brief
 order: 100
 ---
