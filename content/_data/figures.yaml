@@ -128,10 +128,3 @@ figure_list:
     caption: "Map of current L lines"
     credit: "City of Chicago"
     zoom: true
-
-  - id: "motl-cover"
-    src: motlcover.jpg
-    
-
-
-
