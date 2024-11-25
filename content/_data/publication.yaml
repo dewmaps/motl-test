@@ -56,7 +56,12 @@ contributor:
     url: https://www.newberry.org/news/david-weimer-joins-the-newberry-as-curator-of-maps
     image: 
 
-
+  - id: elyon
+    type: secondary
+    first_name: Emily
+    last_name: Lyon
+    title: Postdoctoral Fellow in Public History
+    affiliation: Chabraja Center for Historical Studies
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
