@@ -3,7 +3,7 @@ label: I
 title: Lines on Maps
 subtitle:
 layout: essay
-order: 30
+order: 7
 classes:
   - page-one
 contributor:
