@@ -3,11 +3,14 @@ figure_list:
   - id: "elements"
     src: robinsonelements.jpg
     caption: "From *Elements of Cartography, Fifth Edition* by Arthur H. Robinson,  Joel L. Morrison, and Randall D. Sale, 1984."
+    credit: "Newberry Library"
+    zoom: true
 
   - id: "conventionalsigns"
     src: colorconventionalsigns.jpg
     caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
     credit: "Newberry Library"
+    zoom: true
 
   - id: "fig-1"
     label: "Figure 1"
