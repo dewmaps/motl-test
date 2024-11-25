@@ -6,8 +6,6 @@ layout: essay
 order: 7
 classes:
   - page-one
-contributor:
-  - id: dweimer
 abstract: |
   
 page_pdf_output: true
