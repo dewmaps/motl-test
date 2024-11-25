@@ -1,15 +1,15 @@
 ---
 label: I
-title: American Photographs
-subtitle: Evans in Middletown
+title: Lines on Maps
+subtitle:
 layout: essay
 order: 30
 classes:
   - page-one
 contributor:
-  - id: jkeller
+  - id: dweimer
 abstract: |
-  Excerpt from *Walker Evans: Catalogue of the Collection* (1995) by Judith Keller. Available for free download in its entirety, in the Getty Publications [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html).
+  
 page_pdf_output: true
 ---
 
