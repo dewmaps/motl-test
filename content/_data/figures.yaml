@@ -1,14 +1,13 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "elements"
+    src: robinsonelements.jpg
+    caption: "From *Elements of Cartography, Fifth Edition* by Arthur H. Robinson,  Joel L. Morrison, and Randall D. Sale, 1984."
 
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "conventionalsigns"
+    src: colorconventionalsigns.jpg
+    caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
+    credit: "Newberry Library"
 
   - id: "fig-1"
     label: "Figure 1"
