@@ -6,5 +6,5 @@ order: 30
 image: 
 ---
 
-## A Riotous Energy
+## 
 
