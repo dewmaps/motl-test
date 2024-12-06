@@ -38,6 +38,21 @@ figure_list:
     caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1863."
     credit: "David Rumsey Historical Map Collection"   
 
+  - id: "carta-general-57"
+    src: cartageneral1857.jpg
+    caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1857."
+    credit: "David Rumsey Historical Map Collection"   
+
+  - id: "carta-general-58"
+    src: cartageneral1858.jpg
+    caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1858."
+    credit: "David Rumsey Historical Map Collection"   
+
+  - id: "carta-general-99"
+    src: cartageneral1899.jpg
+    caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1899."
+    credit: "David Rumsey Historical Map Collection"  
+
   - id: "stanfordslondon"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/manifest 
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/canvas/c1
