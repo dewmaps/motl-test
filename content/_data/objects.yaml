@@ -94,3 +94,13 @@ object_list:
     location: David Rumsey Historical Map Collection
     figure:
       - id: "stanfordslondon"
+
+  - id: 10
+    title: Carta general de la República Mexicana
+    year: 1863
+    artist: Antonio García Cubas
+    dimensions: 125 x 146 cm.
+    location: David Rumsey Historical Map Collection
+    figure:
+      - id: "carta-general"
+

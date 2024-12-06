@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Instruction
 subtitle: 
 layout: page
 order: 30
