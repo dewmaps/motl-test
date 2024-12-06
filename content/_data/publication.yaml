@@ -55,6 +55,7 @@ contributor:
     bio: "Previously serving as Librarian for Cartographic Collections and Learning at the Harvard Map Collection, David Weimer arrives at the Newberry in the dual role of Curator of Maps and Director of the Hermon Dunlap Smith Center for the History of Cartography."
     url: https://www.newberry.org/news/david-weimer-joins-the-newberry-as-curator-of-maps
     image: 
+    sort_as: "1"
 
   - id: elyon
     type: secondary
@@ -62,6 +63,7 @@ contributor:
     last_name: Lyon
     title: Postdoctoral Fellow in Public History
     affiliation: Chabraja Center for Historical Studies
+    sort_as: "2" 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
