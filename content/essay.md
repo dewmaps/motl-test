@@ -1,5 +1,4 @@
 ---
-label: I
 title: Lines on Maps
 subtitle:
 layout: essay
