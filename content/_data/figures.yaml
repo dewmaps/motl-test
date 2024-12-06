@@ -30,10 +30,12 @@ figure_list:
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
 
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
+  - id: "carta-general"
+    src: cartageneral.jpg
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1
+    printImage: cartageneral.jpg
+    caption: "Antonio García Cubas *Carta general de la Republica*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "stanfordslondon"
