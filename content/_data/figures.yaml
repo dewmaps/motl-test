@@ -19,6 +19,15 @@ figure_list:
     printImage: cartageneral.jpg
     caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1863."
     credit: "David Rumsey Historical Map Collection"   
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/lange-layers/original-label.png"
+            selected: true
+          - src: "figures/lange-layers/additional-label.png"
+          - src: "figures/lange-layers/scratches.png"
+          - src: "figures/lange-layers/thumb.png"
+            selected: true    
 
   - id: "carta-general-57"
     src: cartageneral1857.jpg
