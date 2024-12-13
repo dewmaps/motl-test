@@ -27,9 +27,11 @@ figure_list:
 
   - id: "carta-general-58"
     src: cartageneral1858.jpg
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~20083~570051/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/activitystreams/RUMSEY~8~1
+    printImage: cartageneral1858.jpg
     caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1858."
     credit: "David Rumsey Historical Map Collection"
-    zoom: true   
 
   - id: "carta-general-99"
     src: cartageneral1899.jpg
