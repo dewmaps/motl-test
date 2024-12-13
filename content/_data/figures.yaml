@@ -28,7 +28,8 @@ figure_list:
   - id: "carta-general-58"
     src: cartageneral1858.jpg
     caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1858."
-    credit: "David Rumsey Historical Map Collection"   
+    credit: "David Rumsey Historical Map Collection"
+    zoom: true   
 
   - id: "carta-general-99"
     src: cartageneral1899.jpg
