@@ -1,132 +1,128 @@
 {
-    "@context" : "http://iiif.io/api/presentation/2/context.json",
-    "@type" : "sc:Manifest",
-    "@id" : "https://dev.gdmrdigital.com/manifests/1240244679/114004512099771980260/43a9b03411dc8d9dda259623b6d3bd77.json",
-    "label" : "Carta General de la Republica Mexicana.",
-    "attribution" : "David Rumsey Historical Map Collection",
-    "service" : [ {
-      "@context" : "http://iiif.io/api/search/1/context.json",
-      "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~253680~5519073/search",
-      "profile" : "http://iiif.io/api/search/1/search"
-    }, {
-      "profile" : "http://iiif.io/api/search/0/search",
-      "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/114004512099771980260/43a9b03411dc8d9dda259623b6d3bd77/search",
-      "@context" : "http://iiif.io/api/search/0/context.json"
-    } ],
-    "sequences" : [ {
-      "@type" : "sc:Sequence",
-      "canvases" : [ {
-        "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1",
-        "@type" : "sc:Canvas",
-        "label" : "Carta General de la Republica Mexicana.",
-        "description" : "",
-        "metadata" : [ {
-          "label" : "Author",
-          "value" : "Garcia Cubas, Antonio, 1832-1912"
-        }, {
-          "label" : "Date",
-          "value" : "1863"
-        }, {
-          "label" : "Short Title",
-          "value" : "Carta General de la Republica Mexicana."
-        }, {
-          "label" : "Publisher",
-          "value" : "H. Iriarte y Ca."
-        }, {
-          "label" : "Publisher Location",
-          "value" : "Mexico"
-        }, {
-          "label" : "Type",
-          "value" : "Separate Map"
-        }, {
-          "label" : "Obj Height cm",
-          "value" : "125"
-        }, {
-          "label" : "Obj Width cm",
-          "value" : "146"
-        }, {
-          "label" : "Scale 1",
-          "value" : "2,362,000"
-        }, {
-          "label" : "Note",
-          "value" : "This map is the first large map of Mexico produced in Mexico from indigenous sources. Garcia Cubas had produced the first atlas of Mexico, Atlas Geografico, Estadistico e Historico de la Republica Mexicana, in 1858 which included a smaller map of Mexico that bears some resemblance to this much larger map. This larger map has many inset maps of cities and coasts, as well as statistical tables, illustrations showing the comparative heights of Mexico's mountains and the lengths of it rivers, tables of distances, and other information. Two large illustrations show the Valley of Mexico and the Matlala Aqueduct."
-        }, {
-          "label" : "Country",
-          "value" : "Mexico"
-        }, {
-          "label" : "Full Title",
-          "value" : "Carta General de la Republica Mexicana, formada por Antonio Garcia y Cubas"
-        }, {
-          "label" : "List No",
-          "value" : "6734.001"
-        }, {
-          "label" : "Publication Author",
-          "value" : "Garcia Cubas, Antonio, 1832-1912"
-        }, {
-          "label" : "Pub Date",
-          "value" : "1863"
-        }, {
-          "label" : "Pub Title",
-          "value" : "Carta General de la Republica Mexicana, formada por Antonio Garcia y Cubas"
-        }, {
-          "label" : "Pub List No",
-          "value" : "6734.000"
-        }, {
-          "label" : "Pub Type",
-          "value" : "Separate Map"
-        }, {
-          "label" : "Pub Height cm",
-          "value" : "125"
-        }, {
-          "label" : "Pub Width cm",
-          "value" : "146"
-        }, {
-          "label" : "Image No",
-          "value" : "6734001"
-        }, {
-          "label" : "Download 1",
-          "value" : "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/6734001.sid target=_blank>Full Image Download in MrSID Format</a>"
-        }, {
-          "label" : "Download 2",
-          "value" : "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
-        }, {
-          "label" : "Authors",
-          "value" : "Garcia Cubas, Antonio, 1832-1912"
-        } ],
-        "thumbnail" : {
-          "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~253680~5519073/full/!96,96/0/default.jpg",
-          "format" : "image/jpeg"
-        },
-        "images" : [ {
-          "@type" : "oa:Annotation",
-          "motivation" : "sc:painting",
-          "resource" : {
-            "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~253680~5519073/full/!1024,1024/0/default.jpg",
-            "@type" : "dctypes:Image",
-            "service" : {
-              "@context" : "http://iiif.io/api/image/2/context.json",
-              "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~253680~5519073",
-              "profile" : "http://iiif.io/api/image/2/level1.json",
-              "protocol" : "http://iiif.io/api/image"
-            },
-            "format" : "image/jpeg",
-            "width" : 20940,
-            "height" : 17992
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "https://dev.gdmrdigital.com/manifests/1240244679/114004512099771980260/43a9b03411dc8d9dda259623b6d3bd77.json",
+  "label" : "Carta General de la Republica Mexicana.",
+  "attribution" : "David Rumsey Historical Map Collection",
+  "service" : [ {
+    "@context" : "http://iiif.io/api/search/1/context.json",
+    "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~253680~5519073/search",
+    "profile" : "http://iiif.io/api/search/1/search"
+  }, {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/114004512099771980260/43a9b03411dc8d9dda259623b6d3bd77/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  } ],
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1",
+      "@type" : "sc:Canvas",
+      "label" : "Carta General de la Republica Mexicana.",
+      "description" : ""
+      } ],
+      "metadata" : [ {
+        "label" : "Author",
+        "value" : "Garcia Cubas, Antonio, 1832-1912"
+      }, {
+        "label" : "Date",
+        "value" : "1863"
+      }, {
+        "label" : "Short Title",
+        "value" : "Carta General de la Republica Mexicana."
+      }, {
+        "label" : "Publisher",
+        "value" : "H. Iriarte y Ca."
+      }, {
+        "label" : "Publisher Location",
+        "value" : "Mexico"
+      }, {
+        "label" : "Type",
+        "value" : "Separate Map"
+      }, {
+        "label" : "Obj Height cm",
+        "value" : "125"
+      }, {
+        "label" : "Obj Width cm",
+        "value" : "146"
+      }, {
+        "label" : "Scale 1",
+        "value" : "2,362,000"
+      }, {
+        "label" : "Note",
+        "value" : "This map is the first large map of Mexico produced in Mexico from indigenous sources. Garcia Cubas had produced the first atlas of Mexico, Atlas Geografico, Estadistico e Historico de la Republica Mexicana, in 1858 which included a smaller map of Mexico that bears some resemblance to this much larger map. This larger map has many inset maps of cities and coasts, as well as statistical tables, illustrations showing the comparative heights of Mexico's mountains and the lengths of it rivers, tables of distances, and other information. Two large illustrations show the Valley of Mexico and the Matlala Aqueduct."
+      }, {
+        "label" : "Country",
+        "value" : "Mexico"
+      }, {
+        "label" : "Full Title",
+        "value" : "Carta General de la Republica Mexicana, formada por Antonio Garcia y Cubas"
+      }, {
+        "label" : "List No",
+        "value" : "6734.001"
+      }, {
+        "label" : "Publication Author",
+        "value" : "Garcia Cubas, Antonio, 1832-1912"
+      }, {
+        "label" : "Pub Date",
+        "value" : "1863"
+      }, {
+        "label" : "Pub Title",
+        "value" : "Carta General de la Republica Mexicana, formada por Antonio Garcia y Cubas"
+      }, {
+        "label" : "Pub List No",
+        "value" : "6734.000"
+      }, {
+        "label" : "Pub Type",
+        "value" : "Separate Map"
+      }, {
+        "label" : "Pub Height cm",
+        "value" : "125"
+      }, {
+        "label" : "Pub Width cm",
+        "value" : "146"
+      }, {
+        "label" : "Image No",
+        "value" : "6734001"
+      }, {
+        "label" : "Download 1",
+        "value" : "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/6734001.sid target=_blank>Full Image Download in MrSID Format</a>"
+      }, {
+        "label" : "Download 2",
+        "value" : "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+      }, {
+        "label" : "Authors",
+        "value" : "Garcia Cubas, Antonio, 1832-1912"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~253680~5519073/full/!96,96/0/default.jpg",
+        "format" : "image/jpeg"
+      },
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~253680~5519073/full/!1024,1024/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~253680~5519073",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "protocol" : "http://iiif.io/api/image"
           },
-          "on" : "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1"
-        } ],
-        "otherContent" : [ "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/list/luna", {
-          "@type" : "sc:AnnotationList",
-          "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/114004512099771980260/3bf6446b34e38ed9589faf821f574686.json",
-          "label" : "Annotations for canvas Carta General de la Republica Mexicana."
-        } ],
-        "width" : 20940,
-        "height" : 17992
-      } ]
-    } ],
-    "logo" : {
-      "@id" : "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
-      "format" : "image/png"
-    },
-    "related" : "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~253680~5519073"
-  }
+          "format" : "image/jpeg",
+          "width" : 20940,
+          "height" : 17992
+        },
+        "on" : "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1"
+      } ],
+      "otherContent" : [ "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/list/luna", {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/114004512099771980260/3bf6446b34e38ed9589faf821f574686.json",
+        "label" : "Annotations for canvas Carta General de la Republica Mexicana."
+      } ],
+      "width" : 20940,
+      "height" : 17992
+    } ]
+
+}
