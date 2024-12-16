@@ -2,5 +2,7 @@
     "id": "cubas-annotations",
     "src": "cartageneral.jpg",
     "zoom": true,
-    "annotations": []
+    "annotations": [ 
+        "https://dev.gdmrdigital.com/annotations/1240244679/114004512099771980260/3bf6446b34e38ed9589faf821f574686.json"
+    ]
     }
