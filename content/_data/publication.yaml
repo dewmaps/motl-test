@@ -64,6 +64,7 @@ contributor:
     title: Postdoctoral Fellow in Public History
     affiliation: Chabraja Center for Historical Studies
     sort_as: "2" 
+    url: https://history.northwestern.edu/people/faculty/postdoctoral-fellows/emily-lyon.html
     bio: "Emily Lyon is a Chabraja Center for Historical Studies Postdoctoral Fellow in Public History at the Newberry Library's Hermon Dunlap Smith Center for the History of Cartography. She is a historian of race, gender, visual culture, and U.S. empire in the early twentieth century. She received her PhD from Northwestern University in 2024."
 # ------------------------------------------------------------------------------
 # Copright & License
@@ -111,10 +112,10 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
+    name: CARTOGRAPHY / Subjects & Themes / Historical / Art
     identifer: PHO023100
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: cartography, art, historical, exhibition
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -130,4 +131,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: motlcover.jpg
