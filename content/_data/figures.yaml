@@ -20,6 +20,14 @@ figure_list:
     caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1863."
     credit: "David Rumsey Historical Map Collection"   
 
+  - id: "hidalgo"
+    src: hidalgo.png
+    caption: Borders of Mexico according to the Treaty of Guadalupe Hidalgo
+
+  - id: "mesilla"
+    src: mesilla.png
+    caption: Borders of Mexico according to the Treaty of Mesilla, also known as the Gadsden Purchase.
+
   - id: "carta-general-57"
     src: cartageneral1857.jpg
     caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1857."
