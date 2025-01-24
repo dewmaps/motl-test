@@ -125,7 +125,7 @@ revision_history:
   - date:
     summary:
 
-repository_url:
+repository_url: https://netlify.app
 
 # ------------------------------------------------------------------------------
 # Promo Image
