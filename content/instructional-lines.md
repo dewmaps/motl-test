@@ -1,6 +1,6 @@
 ---
 title: Instructional Lines
-subtitle: How Mapmakers Standardize Lines
+subtitle: 
 layout: page
 order: 30
 image: 
