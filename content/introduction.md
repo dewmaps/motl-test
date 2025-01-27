@@ -9,6 +9,16 @@ abstract: |
   
 page_pdf_output: true
 ---
+Here, you can write in Markdown, which is a simple, plain-text markup language that uses basic symbols, such as hash marks, asterisks, and brackets, to format content for easy conversion into HTML. 
+
+Here are some of the things you can do with Markdown:
+
+    Add italics to a word or phrase by surrounding it with single asterisks: *a phrase in italics*.
+    Add bold to a word or phrase by surrounding it with double asterisks: **a phrase in bold**.
+    Add a second-level heading by putting the text on it’s own line, preceded by two hashmarks: ## Heading 2.
+    Add a link by putting the link text in square brackets followed by the URL in parentheses: [click here] (http://www.myurl.com).
+
+You can also use footnotes in your text using Markdown, which will appear at the bottom of the page. 
 
 {% backmatter %}
 
