@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/iiif/ctamap/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080/iiif/ctamap/canvas",
+      "type": "Canvas",
+      "height": 8400,
+      "width": 5800,
+      "items": [
+        {
+          "id": "http://localhost:8080/iiif/ctamap/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/iiif/ctamap/canvas/ctamap",
+              "motivation": "painting",
+              "target": "http://localhost:8080/iiif/ctamap/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "http://localhost:8080/iiif/ctamap/ctamap/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8400,
+                "width": 5800,
+                "label": {
+                  "en": [
+                    "Ctamap"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://localhost:8080/iiif/ctamap/ctamap/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

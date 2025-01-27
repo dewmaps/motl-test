@@ -9534,7 +9534,7 @@ html {
   font-size: 0.875em;
   position: sticky;
   z-index: 1;
-  background-color: rosybrown;
+  background-color: rgb(228, 211, 238);
   min-height: 3rem;
   top: 0 !important;
   width: 100%;
@@ -9559,7 +9559,7 @@ html {
 .quire-navbar a,
 .quire-navbar button,
 .quire-navbar .button {
-  background-color: rosybrown;
+  background-color: rgb(228, 211, 238);
   color: #333333 !important;
 }
 .quire-navbar a {
@@ -9821,7 +9821,7 @@ html {
   transition: 0;
 }
 .quire-navbar-skip-link:focus {
-  background-color: rgb(178.4553072626, 127.0446927374, 127.0446927374);
+  background-color: rgb(216.7131147541, 192.606557377, 230.893442623);
   clip: unset;
   height: 3rem;
   line-height: 3rem;
