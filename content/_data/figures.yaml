@@ -69,7 +69,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
     printImage: a-generall-chart.jpg
     src: a-generall-chart.jpg
-    caption: "A map by R. Mount and T. Page from 1720, with rhumb lines across the Atlantic Ocean."
+    caption: "R. Mount and T. Page. *A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile,* 1720, with rhumb lines across the Atlantic Ocean."
     credit: The Newberry Library
 
   - id: "roadfromlondon"
