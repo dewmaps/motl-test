@@ -114,10 +114,6 @@ figure_list:
     caption: "Bruce Heezen, Marie Tharp, and Maurice Ewing, 'The Floors of the Ocean,' *The Geological Society of America Special Paper 65*."
     credit: "Credit: Project Gutenberg."
 
-  - id: foldedmap-vid
-    media_id: dbZv6kKvEvg
-    media_type: youtube
-
 
   - id: "mother-variants"
     label: "Figure 1.1"
