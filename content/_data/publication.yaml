@@ -14,7 +14,7 @@ url: 'http://localhost:8080'
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Mapping Outside the Lines
-subtitle: Analyzing the Visual Language of Maps
+subtitle: 
 reading_line:
 short_title:
 
@@ -26,7 +26,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-09-11 # YYYY-MM-DD
+pub_date: 2025-10-14 # YYYY-MM-DD
 language: en
 pub_type: other # book | journal-periodical | other
 
@@ -52,7 +52,7 @@ contributor:
     last_name: Weimer
     title: Robert A. Holland Curator of Maps and Director of the Hermon Dunlap Smith Center for the History of Cartography
     affiliation: Newberry Library
-    bio: "Previously serving as Librarian for Cartographic Collections and Learning at the Harvard Map Collection, David Weimer arrives at the Newberry in the dual role of Curator of Maps and Director of the Hermon Dunlap Smith Center for the History of Cartography."
+    bio: "David Weimer is the Robert A. Holland Curator of Maps and the Director of the Hermon Dunlap Smith Center for the History of Cartography."
     url: https://www.newberry.org/news/david-weimer-joins-the-newberry-as-curator-of-maps
     image: 
     sort_as: "1"
@@ -65,7 +65,7 @@ contributor:
     affiliation: Chabraja Center for Historical Studies
     sort_as: "2" 
     url: https://history.northwestern.edu/people/faculty/postdoctoral-fellows/emily-lyon.html
-    bio: "Emily Lyon is a Chabraja Center for Historical Studies Postdoctoral Fellow in Public History at the Newberry Library's Hermon Dunlap Smith Center for the History of Cartography. She is a historian of race, gender, visual culture, and U.S. empire in the early twentieth century. She received her PhD from Northwestern University in 2024."
+    bio: "Emily Lyon is a Chabraja Center for Historical Studies Postdoctoral Fellow in Public History at the Newberry Library's Hermon Dunlap Smith Center for the History of Cartography. She is a historian of race, gender, visual culture, and U.S. empire in the early twentieth century and in public memory. She received her PhD from Northwestern University in 2024."
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
@@ -115,7 +115,7 @@ subject:
     name: CARTOGRAPHY / Subjects & Themes / Historical / Art
     identifer: PHO023100
   - type: keywords
-    name: cartography, art, historical, exhibition
+    name: cartography, art, History, exhibition
 
 # ------------------------------------------------------------------------------
 # Revision History

@@ -1,22 +1,25 @@
 ---
-title: About
+title: Credits
 layout: page
 order: 503
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+**Mapping Outside the Lines** 
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+Curators: Dave Weimer, Emily Lyon 
+Exhibition Prep Specialist: Alex Lorenz 
+Director of Conservation: Kimberly Nichols 
+Exhibition Specialists: Patrick Kepley, Nico Marabella 
+Director of Exhibitions: Sarah Boyd Alvarez 
+Digitization Specialist: Catherine Gass 
+Graphic Designers: M.N. Kennedy, Andrea Villasenor 
+Translators: Georgina Valverde, Gerardo García Ramis 
+Gallery Preparators: Chris Cermak, Martin Hernandez, Mike Mitchell, Jason Ulane 
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+The Newberry gratefully acknowledges loans from the American Geographical Society Library, The Museum of Contemporary Art Chicago, and The Art Institute of Chicago 
 
 
 
