@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/iiif/usgs-topog/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080/iiif/usgs-topog/canvas",
+      "type": "Canvas",
+      "height": 1276,
+      "width": 2091,
+      "items": [
+        {
+          "id": "http://localhost:8080/iiif/usgs-topog/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/iiif/usgs-topog/canvas/usgs-topog",
+              "motivation": "painting",
+              "target": "http://localhost:8080/iiif/usgs-topog/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "http://localhost:8080/iiif/usgs-topog/usgs-topog/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1276,
+                "width": 2091,
+                "label": {
+                  "en": [
+                    "Usgs-topog"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://localhost:8080/iiif/usgs-topog/usgs-topog/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
