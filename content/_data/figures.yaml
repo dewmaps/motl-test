@@ -52,7 +52,7 @@ figure_list:
 
   - id: "universale"
     src: universale.jpg
-    caption: "Ferando Bertelli, Universale descrittione di tutta la terra conosciuta fin qui, 1565. Based on an earlier map by Giacomo Gastaldi."
+    caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
     credit: The Library of Congress, Geography and Map Division
     zoom: true
 
@@ -69,7 +69,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
     printImage: a-generall-chart.jpg
     src: a-generall-chart.jpg
-    caption: "R. Mount and T. Page. *A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile,* 1720, with rhumb lines across the Atlantic Ocean."
+    caption: "R. Mount and T. Page. *A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile*, 1720."
     credit: The Newberry Library
 
   - id: "roadfromlondon"
@@ -77,7 +77,7 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
     printImage: road-from-london.jpg
-    caption: "From Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales...by John Ogilby."
+    caption: "From *Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales* by John Ogilby."
     credit: David Rumsey Historical Map Collection
 
   - id: "carteethno"
