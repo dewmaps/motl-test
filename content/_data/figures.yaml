@@ -4,7 +4,6 @@ figure_list:
     src: robinsonelements.jpg
     caption: "From *Elements of Cartography, Fifth Edition* by Arthur H. Robinson,  Joel L. Morrison, and Randall D. Sale, 1984."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "conventionalsigns"
     src: colorconventionalsigns.jpg
@@ -104,6 +103,15 @@ figure_list:
     zoom: true
 
 
+  - id: "usgs-topog"
+    src: usgs-topog.jpg
+    caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950 "
+    credit: "Newberry Library"
+    zoom: true
+
+
+
+
 
 
   - id: "mother-variants"
@@ -169,4 +177,3 @@ figure_list:
     src: figures/evans-graveyard.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
-    

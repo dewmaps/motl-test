@@ -15,6 +15,9 @@ The amazing variety in types of lines is most apparent in texts that explicitly 
 
 In this U.S. Coast Survey manual, engraver Joseph Entoffer carefully detailed the colors, shapes, and types of lines mapmakers should use to mark features important for military purposes. To help standardize surveys of thousands of miles of territory, federal and military institutions funded and published atlases, manuals, and textbooks as a guide. Manuals like Entoffer’s highlight that what may seem like universal cartographic principles were purposefully designed by past mapmakers. 
 
+{% figure "usgs-topog %}
+
+Even as institutions evolved, they continued to standardize lines. Almost a century after Entoffer published his work with the U.S. Coast Survey, another federal agency, the U.S. Geological Survey continued to create topographic maps of the country. In the large surveys spanning thousands of sheets created by the U.S. Geological Survey, mapmakers and readers alike needed reminders of the subtle differences in lines. Responding to changes in technology and new mapping needs resulting from the second World War, such as aerial photography, mapmakers added their own recommendations on how to best use lines.     
 
 {% figure 'elements' %}
 
