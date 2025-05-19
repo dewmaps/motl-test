@@ -130,3 +130,10 @@ object_list:
     location: David Rumsey Historical Map Collection
     figure:
       - id: "carta-general-99"
+
+  - id: 14
+    title: The Folded Map Project by Tonika Johnson
+    year: 2017
+    artist: Tonika Johnson
+    figure:
+      - id: "foldedmap-vid"
