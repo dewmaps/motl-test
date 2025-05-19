@@ -9144,7 +9144,7 @@ html {
   width: 100%;
 }
 .quire main {
-  background-color: #EAEBE7;
+  background-color: #EEF2F3;
 }
 @media print {
   .quire main {
@@ -9343,7 +9343,7 @@ html {
   }
 }
 .accordion-section__copy-link-button:active, .accordion-section__copy-link-button:hover, .accordion-section__copy-link-button:focus {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .accordion-section__copy-link-button:focus:not(:focus-visible) {
   outline: none;
@@ -9352,20 +9352,20 @@ html {
 @media screen and (min-width: 500px) {
   .accordion-section__heading:hover .accordion-section__copy-link-button,
   .accordion-section__heading:focus-visible .accordion-section__copy-link-button {
-    color: #925840;
+    color: rosybrown;
   }
   .accordion-section__heading:hover .accordion-section__copy-link-button:hover,
   .accordion-section__heading:focus-visible .accordion-section__copy-link-button:hover {
-    color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+    color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
   }
 }
 
 @media (pointer: fine) and (hover: none) {
   .accordion-section__heading:focus .accordion-section__copy-link-button {
-    color: #925840;
+    color: rosybrown;
   }
   .accordion-section__heading:focus .accordion-section__copy-link-button:focus {
-    color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+    color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
   }
 }
 
@@ -9510,7 +9510,7 @@ html {
   border: none;
   padding: 0;
   outline: inherit;
-  color: #925840;
+  color: rosybrown;
   text-decoration: underline;
   font-family: "Noto Sans", sans-serif;
   font-size: 0.875em;
@@ -9581,7 +9581,7 @@ html {
   transition: all 0.25s ease;
   font-family: "Noto Sans", sans-serif;
   font-size: 0.75rem;
-  background-color: rgb(209.6590909091, 211.8181818182, 203.1818181818);
+  background-color: rgb(208.1034482759, 219.1379310345, 221.8965517241);
   border-bottom: none;
 }
 .quire-progress-bar span {
@@ -9591,7 +9591,7 @@ html {
 .quire-progress-bar div {
   height: 2px;
   width: 100%;
-  background-color: #925840;
+  background-color: rosybrown;
   text-align: right;
   padding-right: 0.5em;
   position: relative;
@@ -9639,7 +9639,7 @@ html {
 }
 .quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, .quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
   color: #fff !important;
-  background-color: #925840;
+  background-color: rosybrown;
 }
 .quire-navbar-controls__left a:hover svg, .quire-navbar-controls__left button:hover svg, .quire-navbar-controls__left .button:hover svg, .quire-navbar-controls__right a:hover svg, .quire-navbar-controls__right button:hover svg, .quire-navbar-controls__right .button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item a:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover svg {
   fill: #fff;
@@ -9790,7 +9790,7 @@ html {
 }
 .quire-navbar-button.arrow-button a:hover {
   color: #fff !important;
-  background-color: #925840;
+  background-color: rosybrown;
 }
 .quire-navbar-button.arrow-button a:hover svg {
   fill: #fff;
@@ -9927,8 +9927,8 @@ html {
 }
 .quire-menu .page-item a.active, .quire-menu .section-item a.active {
   margin-left: -1.25em;
-  border-left: 4px solid #925840;
-  color: #925840 !important;
+  border-left: 4px solid rosybrown;
+  color: rosybrown !important;
   text-decoration: none;
   padding-left: calc(0.75em + 4px);
 }
@@ -9936,7 +9936,7 @@ html {
   border-left-width: 4px;
 }
 .quire-menu .page-item a.active *, .quire-menu .section-item a.active * {
-  color: #925840 !important;
+  color: rosybrown !important;
 }
 .quire-menu .page-item .page-item a.active, .quire-menu .section-item .page-item a.active {
   margin-left: calc(-2.75em - 4px);
@@ -10047,17 +10047,17 @@ html {
   display: block;
   margin-bottom: 0.25em;
   width: fit-content;
-  color: #925840;
-  border-bottom: 1px dotted #925840;
+  color: rosybrown;
+  border-bottom: 1px dotted rosybrown;
 }
 .quire-search__inner__list-item a * {
-  color: #925840;
+  color: rosybrown;
 }
 .quire-search__inner__list-item a:hover {
-  border-bottom: 1px solid rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  border-bottom: 1px solid rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-search__inner__list-item a:hover * {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-search__inner__list-item .title {
   font-size: 1.25rem;
@@ -10092,7 +10092,7 @@ html {
   bottom: 0;
 }
 .quire-search__close-button:hover {
-  background-color: #925840;
+  background-color: rosybrown;
   border: 0;
 }
 .quire-search__close-button:hover svg {
@@ -10269,7 +10269,7 @@ html div {
 .quire-page__content .container .content {
   margin-top: 45px;
   padding: 2.5rem 2.5rem;
-  background-color: #EADCC9;
+  background-color: #ffffff;
 }
 @media screen and (max-width: 500px) {
   .quire-page__content .container .content {
@@ -10382,7 +10382,7 @@ html div {
   .quire-page__content .container .content blockquote h4:first-child:before,
   .quire-page__content .container .content blockquote h5:first-child:before,
   .quire-page__content .container .content blockquote h6:first-child:before {
-    color: rgb(197.4886363636, 200.2272727273, 189.2727272727);
+    color: rgb(193.1551724138, 207.7068965517, 211.3448275862);
     font-size: 5em;
     line-height: 0.1em;
     margin-right: 0.25em;
@@ -10505,7 +10505,7 @@ html div {
   font-family: "IBM Plex Sans Condensed", sans-serif;
 }
 .quire-page__abstract .container {
-  background-color: #EADCC9;
+  background-color: #ffffff;
   padding: 2em 2.75em 0em;
   margin: 0 auto;
   max-width: 720px;
@@ -10556,7 +10556,7 @@ html div {
 }
 
 .quire-page__header {
-  background-color: #EAEBE7;
+  background-color: #EEF2F3;
   color: #333333;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10587,7 +10587,7 @@ html div {
   height: 80vh;
 }
 .quire-page__header.hero__image .quire-page__header__title, .quire-page__header.hero__image .quire-page__header__subtitle {
-  color: #EADCC9;
+  color: #ffffff;
 }
 @media screen and (max-width: 500px) {
   .quire-page__header .hero-body {
@@ -10600,8 +10600,8 @@ html div {
   width: fit-content;
   font-size: 1.2rem;
   color: #333333;
-  border-top: 2px solid #925840;
-  border-bottom: 2px solid #925840;
+  border-top: 2px solid rosybrown;
+  border-bottom: 2px solid rosybrown;
   padding: 0.2rem 0.3rem;
   letter-spacing: 0;
   margin: 0 auto 1.9em;
@@ -10618,8 +10618,8 @@ html div {
 }
 
 .quire-download__link {
-  color: #925840;
-  fill: #925840;
+  color: rosybrown;
+  fill: rosybrown;
   font-size: 0.875rem;
 }
 .quire-download__link span {
@@ -10636,8 +10636,8 @@ html div {
   margin: 1.5rem auto 0;
 }
 .quire-page__header .quire-download__link:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-page__header .quire-download__link .quire-download__link__icon {
   height: 1rem;
@@ -10645,13 +10645,13 @@ html div {
 }
 
 .quire-splash .quire-page__header .quire-download__link {
-  background-color: #EADCC9;
+  background-color: #ffffff;
   border-radius: 2px;
 }
 .quire-splash .quire-page__header .quire-download__link:hover {
-  color: #EADCC9;
-  fill: #EADCC9;
-  background-color: #925840;
+  color: #ffffff;
+  fill: #ffffff;
+  background-color: rosybrown;
 }
 
 .quire-page__content .quire-download-footer-link {
@@ -10661,8 +10661,8 @@ html div {
   padding-top: 1rem;
 }
 .quire-page__content .quire-download-footer-link .quire-download__link:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-page__content .quire-download-footer-link .quire-download__link .quire-download__link__icon {
   height: 0.875rem;
@@ -10737,7 +10737,7 @@ html div {
   }
 }
 .quire-splash .quire-page__content .container .content {
-  background-color: #EAEBE7;
+  background-color: #EEF2F3;
 }
 @media print {
   .quire-splash .quire-page__content .container .content {
@@ -10763,8 +10763,8 @@ html div {
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
   line-height: inherit;
-  color: #925840;
-  border-bottom: 1px dotted #925840;
+  color: rosybrown;
+  border-bottom: 1px dotted rosybrown;
 }
 @media print {
   .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
@@ -10773,8 +10773,8 @@ html div {
   }
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857) !important;
-  border-bottom: 1px solid rgb(92.8142857143, 55.9428571429, 40.6857142857) !important;
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363) !important;
+  border-bottom: 1px solid rgb(159.2402234637, 95.2597765363, 95.2597765363) !important;
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):focus {
   background-color: #F9F9A3;
@@ -10806,7 +10806,7 @@ html div {
 .quire-page__content .content a.footnote-return:hover,
 .quire-page__content .content a.footnote-backref:hover,
 .quire-page__content .content a.footnote-ref:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857) !important;
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363) !important;
   border-bottom-width: 0 !important;
 }
 .quire-page__content .content .quire-page__content__references dl {
@@ -10959,7 +10959,7 @@ html div {
 }
 .quire-cover__hero {
   background-color: #6A8EB8;
-  background-image: linear-gradient(90deg, #6A8EB8, #925840);
+  background-image: linear-gradient(90deg, #6A8EB8, rosybrown);
   position: relative;
   text-align: left;
   display: flex;
@@ -11080,7 +11080,7 @@ html div {
   margin-bottom: 0;
 }
 .quire-cover__button {
-  background-color: #925840;
+  background-color: rosybrown;
   color: #fff;
   border-width: 0px;
   border-radius: 2px;
@@ -11098,7 +11098,7 @@ html div {
   fill: #fff;
 }
 .quire-cover__button:hover {
-  background-color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  background-color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
   color: #ffffff;
 }
 .quire-cover .quire-page__content {
@@ -11107,7 +11107,7 @@ html div {
 .quire-cover .quire-page__content .container.is-fluid .content {
   padding-top: 2em !important;
   color: #333333;
-  background-color: #EAEBE7;
+  background-color: #EEF2F3;
 }
 .quire-cover .quire-page__content .container.is-fluid .content p {
   line-height: 2em;
@@ -11130,10 +11130,10 @@ html div {
 }
 .quire-cover .quire-contents-buttons ul li.quire-nav-button a {
   padding-top: 0.325em;
-  color: #EADCC9;
+  color: #ffffff;
 }
 .quire-cover .quire-contents-buttons ul li.quire-nav-button svg {
-  fill: #EADCC9;
+  fill: #ffffff;
 }
 .quire-cover .quire-contents-buttons .nav-title {
   font-size: initial;
@@ -11213,7 +11213,7 @@ html div {
   border-bottom: 1px dotted #333333;
 }
 .quire-contents-list ol.arrow .section-indent a:hover {
-  border-bottom: 1px solid rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  border-bottom: 1px solid rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list ol.arrow .section-indent a .title span {
   padding-left: 0.2em;
@@ -11227,7 +11227,7 @@ html div {
 .quire-contents-list .menu-list .section-header {
   text-align: center;
   font-size: 1rem !important;
-  border-top: 1px solid rgb(219.72, 196.2, 164.28);
+  border-top: 1px solid rgb(229.5, 229.5, 229.5);
   padding-top: 3.3375em;
   margin-bottom: 0;
 }
@@ -11275,7 +11275,7 @@ html div {
   display: none;
 }
 .quire-contents-list .menu-list .section-item ol a:hover {
-  border-bottom: 1px solid rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  border-bottom: 1px solid rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list .menu-list .page-item.no-landing,
 .quire-contents-list .menu-list .section-item.no-landing {
@@ -11320,18 +11320,18 @@ html div {
 }
 .quire-contents-list .menu-list a:hover {
   background-color: inherit;
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list .menu-list a:hover .arrow {
   transform: translateX(0.75em);
   -webkit-transition: all 0.25s ease;
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list .menu-list a:hover .arrow svg {
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857) !important;
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363) !important;
 }
 .quire-contents-list .menu-list a:hover * {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list .menu-list a:hover figure.image {
   -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
@@ -11450,7 +11450,7 @@ html div {
   font-weight: inherit;
   line-height: inherit;
   font-family: "IBM Plex Sans Condensed", sans-serif;
-  color: #925840;
+  color: rosybrown;
 }
 @media print {
   .quire-contents-list.grid .title {
@@ -11478,7 +11478,7 @@ html div {
   margin-top: 0.1625em;
 }
 .quire-contents-list.grid .menu-list a .arrow {
-  fill: #925840;
+  fill: rosybrown;
 }
 .quire-contents-list.grid .menu-list a .card.no-image .arrow {
   margin-top: 0;
@@ -11493,10 +11493,10 @@ html div {
   }
 }
 .quire-contents-list.grid .menu-list ol.arrow a .arrow {
-  fill: #925840;
+  fill: rosybrown;
 }
 .quire-contents-list.grid .menu-list ol.arrow .section-item {
-  border-top: 1px solid rgb(219.72, 196.2, 164.28);
+  border-top: 1px solid rgb(229.5, 229.5, 229.5);
   font-weight: 700;
   padding-bottom: 0;
   margin: 0;
@@ -11564,8 +11564,8 @@ html div {
   display: block;
   border-radius: 2px;
   box-shadow: none;
-  background-color: #EADCC9;
-  color: #925840;
+  background-color: #ffffff;
+  color: rosybrown;
 }
 @media print {
   .quire-contents-list.grid ol li .card {
@@ -11577,14 +11577,14 @@ html div {
   border-bottom: none;
 }
 .quire-contents-list.grid ol li .card a:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
   border-bottom: none;
 }
 .quire-contents-list.grid ol li .card a:hover svg {
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list.grid ol li .card a svg {
-  fill: #925840;
+  fill: rosybrown;
   vertical-align: text-bottom;
 }
 .quire-contents-list.grid ol li .card .card-image {
@@ -11651,10 +11651,10 @@ html div {
   margin-top: 0;
 }
 .quire-contents-list.grid ol li .card-content:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list.grid ol li .card-content:hover .title {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-list.grid ol li .card-content .artist {
   text-transform: uppercase;
@@ -11668,7 +11668,7 @@ html div {
 .quire-contents-list.grid ol li.section-item {
   border-top: 1px solid;
   border-bottom: 1px solid;
-  border-color: rgb(197.4886363636, 200.2272727273, 189.2727272727);
+  border-color: rgb(193.1551724138, 207.7068965517, 211.3448275862);
 }
 @media print {
   .quire-contents-list.grid ol li.section-item {
@@ -11811,8 +11811,8 @@ html div {
   margin-top: 0.5em;
   margin-left: 0;
   margin-right: 0;
-  border-top: 1px solid #925840;
-  border-bottom: 1px solid #925840;
+  border-top: 1px solid rosybrown;
+  border-bottom: 1px solid rosybrown;
   padding: 1rem 0;
 }
 .q-figure > a {
@@ -11831,10 +11831,10 @@ html div {
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
 }
 .q-figure > a:hover .q-figure__label--below {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .q-figure > a:hover .q-figure__label--below svg {
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .q-figure img {
   object-fit: cover;
@@ -11844,7 +11844,7 @@ html div {
   color: currentColor;
 }
 .q-figure--table table caption {
-  color: #925840;
+  color: rosybrown;
   font-size: 1rem;
   margin: 0 1rem 1rem;
 }
@@ -11916,7 +11916,7 @@ html div {
   margin-right: 0.5rem;
 }
 .q-figure__label a {
-  color: #925840;
+  color: rosybrown;
 }
 .q-figure__label .q-figure__label-icon {
   display: inline-block;
@@ -11931,7 +11931,7 @@ html div {
   }
 }
 .q-figure__label .q-figure__label-icon svg {
-  fill: #925840;
+  fill: rosybrown;
   width: 1.5rem;
   height: 1.5rem;
 }
@@ -12264,11 +12264,11 @@ div.multimedia .caption {
 }
 .q-figure__label--below .q-figure__modal-link {
   display: inline;
-  color: #925840;
+  color: rosybrown;
   transition: color 0.35s;
 }
 .q-figure__label--below .q-figure__modal-link:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 
 /** VIDEO/AUDIO FALLBACK ELEMENTS **/
@@ -12899,7 +12899,7 @@ q-modal[data-modal-active=true] {
   }
 }
 .quire-entry__header .container {
-  background-color: #EADCC9;
+  background-color: #ffffff;
   padding-bottom: 2rem;
 }
 @media screen and (max-width: 500px) {
@@ -12925,12 +12925,12 @@ q-modal[data-modal-active=true] {
   font-family: "Noto Sans", sans-serif;
 }
 .quire-entry__tombstone a {
-  color: #925840;
-  border-bottom: 1px dotted #925840;
+  color: rosybrown;
+  border-bottom: 1px dotted rosybrown;
 }
 .quire-entry__tombstone a:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
-  border-bottom: 1px solid rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
+  border-bottom: 1px solid rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 @media print {
   .quire-entry__tombstone a {
@@ -12941,18 +12941,18 @@ q-modal[data-modal-active=true] {
 .quire-entry__tombstone a.button {
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
-  color: #925840;
+  color: rosybrown;
 }
 .quire-entry__tombstone a.button:hover {
-  background-color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
-  border-color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  background-color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
+  border-color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
   color: #fff;
 }
 .quire-entry__tombstone a.button:hover svg {
   fill: #fff;
 }
 .quire-entry__tombstone > div.container {
-  background-color: #EADCC9;
+  background-color: #ffffff;
   padding-bottom: 2em;
 }
 @media screen and (max-width: 500px) {
@@ -12974,7 +12974,7 @@ q-modal[data-modal-active=true] {
   padding-bottom: 1em;
   border-top: 1px solid #333333;
   border-bottom: 1px solid #333333;
-  background-color: #EADCC9;
+  background-color: #ffffff;
   color: #333333;
   font-size: 0.875em;
 }
@@ -12997,18 +12997,18 @@ q-modal[data-modal-active=true] {
 .quire-entry__tombstone .button {
   margin-left: 2em;
   margin-top: 1.5em;
-  background-color: #EADCC9;
+  background-color: #ffffff;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  border: 1px solid #925840;
+  border: 1px solid rosybrown;
 }
 .quire-entry__tombstone svg {
   position: relative;
   height: 1em;
   width: 1em;
   margin-left: 0.5em;
-  fill: #925840;
+  fill: rosybrown;
 }
 .quire-entry__tombstone svg img {
   position: absolute;
@@ -13066,7 +13066,7 @@ q-modal[data-modal-active=true] {
   padding-bottom: 1.5rem;
 }
 .quire-entry .quire-page__content .content {
-  background-color: #EADCC9;
+  background-color: #ffffff;
   margin-top: 0;
   padding: 0 2rem 2.5em;
 }
@@ -13165,7 +13165,7 @@ q-modal[data-modal-active=true] {
     height: 100vh;
     width: 44%;
     right: 0;
-    background: #EAEBE7;
+    background: #EEF2F3;
   }
 }
 @media screen and (min-width: 700px) {
@@ -13277,7 +13277,7 @@ q-modal[data-modal-active=true] {
   font-style: normal;
   color: inherit;
   cursor: pointer;
-  border-bottom: 1px dotted #925840;
+  border-bottom: 1px dotted rosybrown;
 }
 @media print {
   .quire-citation__button {
@@ -13285,19 +13285,19 @@ q-modal[data-modal-active=true] {
   }
 }
 .quire-citation__button:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857) !important;
-  border-bottom: 1px solid rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363) !important;
+  border-bottom: 1px solid rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-citation__button:hover {
-  color: rgb(92.8142857143, 55.9428571429, 40.6857142857) !important;
-  border-bottom: 1px solid rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  color: rgb(159.2402234637, 95.2597765363, 95.2597765363) !important;
+  border-bottom: 1px solid rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-citation__button--icon {
   border-bottom-width: 0;
   margin-left: 2px;
 }
 .quire-citation__button--icon svg {
-  fill: #925840;
+  fill: rosybrown;
   width: 1em;
   height: 1em;
   pointer-events: none;
@@ -13360,7 +13360,7 @@ q-modal[data-modal-active=true] {
   color: #333333;
 }
 .quire-copyright__icon__link svg:hover {
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-copyright .copyright__publisher-logo {
   display: inline-block;
@@ -13454,13 +13454,13 @@ q-modal[data-modal-active=true] {
 .quire-page__content .content .quire-contributor__url svg {
   width: 0.875em;
   height: 0.875em;
-  fill: #925840;
+  fill: rosybrown;
 }
 .quire-page__content .content .quire-contributor__url:hover {
   border-bottom-width: 0px !important;
 }
 .quire-page__content .content .quire-contributor__url:hover svg {
-  fill: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  fill: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contributor__pic {
   width: 100px;
@@ -13686,7 +13686,7 @@ div.quire-caption-container > .caption {
   font-size: 0.875rem;
 }
 div.quire-caption-container > .caption a {
-  color: #925840;
+  color: rosybrown;
   border-bottom: 1px dotted;
 }
 div.quire-caption-container .q-figure__label-text {
@@ -13694,7 +13694,7 @@ div.quire-caption-container .q-figure__label-text {
   font-weight: bold;
 }
 div.quire-caption-container a {
-  color: #925840;
+  color: rosybrown;
   border-bottom: 1px dotted;
 }
 div.mfp-title {
@@ -13851,8 +13851,8 @@ body > div.mfp-bg.mfp-ready {
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
   font-size: 1rem;
-  border: 1px solid #925840;
-  color: #925840;
+  border: 1px solid rosybrown;
+  color: rosybrown;
 }
 .quire-contents-buttons li.quire-nav-button a {
   display: inline-block;
@@ -13868,11 +13868,11 @@ body > div.mfp-bg.mfp-ready {
   margin-right: 0.55rem;
 }
 .quire-contents-buttons li.quire-nav-button.prev a {
-  color: #925840;
+  color: rosybrown;
   margin-right: 0.5rem;
 }
 .quire-contents-buttons li.quire-nav-button.prev svg {
-  fill: #925840;
+  fill: rosybrown;
   margin-right: 0.5rem;
 }
 .quire-contents-buttons li.quire-nav-button svg {
@@ -13885,20 +13885,20 @@ body > div.mfp-bg.mfp-ready {
   vertical-align: super;
 }
 .quire-contents-buttons li.quire-nav-button.next {
-  background-color: #925840;
+  background-color: rosybrown;
 }
 .quire-contents-buttons li.quire-nav-button.next svg {
   fill: #fff;
 }
 .quire-contents-buttons li.quire-nav-button.next:hover {
-  background-color: rgb(92.8142857143, 55.9428571429, 40.6857142857) !important;
+  background-color: rgb(159.2402234637, 95.2597765363, 95.2597765363) !important;
 }
 .quire-contents-buttons li.quire-nav-button.next a {
   color: #fff;
 }
 .quire-contents-buttons li.quire-nav-button:hover {
-  background-color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
-  border-color: rgb(92.8142857143, 55.9428571429, 40.6857142857);
+  background-color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
+  border-color: rgb(159.2402234637, 95.2597765363, 95.2597765363);
 }
 .quire-contents-buttons li.quire-nav-button:hover a {
   color: #fff;
@@ -14314,7 +14314,7 @@ body > div.mfp-bg.mfp-ready {
   .title-page .title {
     font-size: 4em;
     font-weight: 700;
-    color: #925840;
+    color: rosybrown;
     line-height: 1.1;
     margin-bottom: 0.3em;
   }
@@ -14334,7 +14334,7 @@ body > div.mfp-bg.mfp-ready {
     align-items: flex-end;
     font-family: "IBM Plex Sans Condensed", sans-serif;
     font-size: 1.5em;
-    color: #925840;
+    color: rosybrown;
     text-align: right;
   }
   .copyright-page {

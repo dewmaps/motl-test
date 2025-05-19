@@ -1,6 +1,5 @@
 object_display_order:
   - artist
-  - title
   - year
   - dimensions
   - medium
@@ -131,4 +130,3 @@ object_list:
     location: David Rumsey Historical Map Collection
     figure:
       - id: "carta-general-99"
-

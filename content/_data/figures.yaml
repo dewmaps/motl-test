@@ -4,6 +4,7 @@ figure_list:
     src: robinsonelements.jpg
     caption: "From *Elements of Cartography, Fifth Edition* by Arthur H. Robinson,  Joel L. Morrison, and Randall D. Sale, 1984."
     credit: "Newberry Library"
+    zoom: true
 
   - id: "conventionalsigns"
     src: colorconventionalsigns.jpg
@@ -52,7 +53,7 @@ figure_list:
 
   - id: "universale"
     src: universale.jpg
-    caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
+    caption: "Ferando Bertelli, Universale descrittione di tutta la terra conosciuta fin qui, 1565. Based on an earlier map by Giacomo Gastaldi."
     credit: The Library of Congress, Geography and Map Division
     zoom: true
 
@@ -69,7 +70,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
     printImage: a-generall-chart.jpg
     src: a-generall-chart.jpg
-    caption: "R. Mount and T. Page. *A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile*, 1720."
+    caption: "A map by R. Mount and T. Page from 1720, with rhumb lines across the Atlantic Ocean."
     credit: The Newberry Library
 
   - id: "roadfromlondon"
@@ -77,7 +78,7 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
     printImage: road-from-london.jpg
-    caption: "From *Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales* by John Ogilby."
+    caption: "From Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales...by John Ogilby."
     credit: David Rumsey Historical Map Collection
 
   - id: "carteethno"
@@ -103,16 +104,6 @@ figure_list:
     zoom: true
 
 
-  - id: "usgs-topog"
-    src: usgs-topog.jpg
-    caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950 "
-    credit: "Newberry Library"
-    zoom: true
-
-  - id: "heezen"
-    src: heezen.jpg
-    caption: "Bruce Heezen, Marie Tharp, and Maurice Ewing, 'The Floors of the Ocean,' *The Geological Society of America Special Paper 65*."
-    credit: "Credit: Project Gutenberg."
 
 
   - id: "mother-variants"
@@ -178,3 +169,4 @@ figure_list:
     src: figures/evans-graveyard.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+    
