@@ -1,5 +1,6 @@
 ---
 toc: false
+menu: false
 title: Lines on Maps
 subtitle:
 layout: essay
