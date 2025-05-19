@@ -5,7 +5,9 @@ layout: page
 order: 30
 image: 
 ---
-We have expectations for what lines on maps mean—a highlighted line on an app on a smartphone shows the fastest path of travel, or dark, solid lines mark boundaries between countries, for example. But lines on maps have evolved consistently throughout history, responding to events such as technological revolutions, as with the rise of computing technologies that allow cartographers to map our world in new ways and on different scales. As the following instructional texts illustrate, lines can have a variety of meanings, even on one specific kind of map. Mapmakers have carefully considered what lines on maps should look like and how these highly conventionalized symbols should be taught, practiced, and learned. 
+Numerous small and large variations in lines allow mapmakers to communicate all sorts of facts, stories, and concepts. As these instructional texts illustrate, lines can have a variety of functions, even within one specific kind of map. A thin line may mark a minor road; an undulating line may track a river; and a straight line along the edges will often give the map itself a border. Although these lines now seem obvious, mapmakers developed these conventionalized, but still flexible, symbols slowly over time. By codifying these symbols, instructional texts like these spread a European tradition of mapping throughout the world.  
+
+The amazing variety in types of lines is most apparent in texts that explicitly teach mapmaking, a few of which you can see in the examples below. 
 
 {% figure 'conventionalsigns' %}
 

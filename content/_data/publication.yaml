@@ -14,7 +14,7 @@ url: 'http://localhost:8080'
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Mapping Outside the Lines
-subtitle: Analyzing the Visual Language of Maps
+subtitle: 
 reading_line:
 short_title:
 
@@ -26,7 +26,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-09-11 # YYYY-MM-DD
+pub_date: 2025-10-14 # YYYY-MM-DD
 language: en
 pub_type: other # book | journal-periodical | other
 
@@ -115,7 +115,7 @@ subject:
     name: CARTOGRAPHY / Subjects & Themes / Historical / Art
     identifer: PHO023100
   - type: keywords
-    name: cartography, art, historical, exhibition
+    name: cartography, art, History, exhibition
 
 # ------------------------------------------------------------------------------
 # Revision History
