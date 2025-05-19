@@ -6,9 +6,9 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: rosybrown;
-$content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$accent-color: #925840;
+$content-background-color: #EADCC9; // main text area background color
+$secondary-background-color: #EAEBE7; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -22,8 +22,8 @@ $navbar: normal;
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
-$ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
-$noto-sans: 'Noto Sans', sans-serif;
+$ibm-sans: 'Flecha M Medium', sans-serif;
+$noto-sans: 'Styrene B Bold', sans-serif;
 $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
 
