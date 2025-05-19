@@ -115,7 +115,6 @@ figure_list:
     credit: "Credit: Project Gutenberg."
 
   - id: foldedmap-vid
-    poster: video-1-still.jpg
     media_id: dbZv6kKvEvg
     media_type: youtube
 
