@@ -33,11 +33,11 @@ object_list:
       - id: "cat-2-c"
 
   - id: 3
-    title: New York City Subway Map
+    title: The Metropolitan Transportation Authority revised map of the rapid transit facilities of New York City Transit Authority
     year: 1972
     artist: Massimo Vignelli
-    dimensions: 44 x 44 cm and 44 x 46 cm, sheet 54 x 46 cm, folded to 18 x 10 cm. 
-    location: The Newberry Library
+    dimensions: 45 x 45 cm 
+    location: David Rumsey Historical Map Collection
     figure:
       - id: "nycsubway"
 
