@@ -132,3 +132,12 @@ object_list:
     figure:
       - id: "carta-general-99"
 
+  - id: 14
+    title: Carte Physique de ou Geographie Naturelle de la France
+    year: 1770
+    artist: Philippe Buache
+    dimensions: 39 x 50 cm. 
+    location: David Rumsey Historical Map Collection
+    figure:
+      - id: "buache"
+
