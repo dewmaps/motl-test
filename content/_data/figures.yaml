@@ -9,7 +9,7 @@ figure_list:
     src: colorconventionalsigns.jpg
     caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
     credit: "Newberry Library"
-    zoom: false
+    zoom: true
 
   - id: "carta-general"
     src: cartageneral.jpg
