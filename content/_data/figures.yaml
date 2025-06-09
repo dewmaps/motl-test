@@ -11,6 +11,12 @@ figure_list:
     credit: "Newberry Library"
     zoom: false
 
+  - id: "conventionalsigns2"
+    src: conventionalsigns.jpg
+    caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
+    credit: "Newberry Library"
+    zoom: true
+
   - id: "carta-general"
     src: cartageneral.jpg
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/manifest
