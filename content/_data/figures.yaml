@@ -111,12 +111,11 @@ figure_list:
     credit: Normal B. Leventhal Map & Education 
 
   - id: "nycsubway"
-    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSFHT9BC
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSQPT9JK
-    printImage: nycsubway.jpg
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/canvas/c1 
     src: nycsubway.jpg
-    caption: "*Unsigned maps designed by graphic artist and architect Massimo Vignelli, 1972."
-    credit: "Newberry Library"
+    caption: "*Massimo Vignelli and the New York City Transit Authority 'The Metropolitan Transportation Authority revised map of the rapid transit facilities of New York City Transit Authority' 1972."
+    credit: "David Rumsey Historical Map Collection"
 
   - id: "ctamap"
     src: ctamap.jpg
