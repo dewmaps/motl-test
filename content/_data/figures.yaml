@@ -113,7 +113,7 @@ figure_list:
   - id: "nycsubway"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/canvas/c1 
-    src: nycsubway.jpg
+    src: nycsubway1.jpg
     caption: "*Massimo Vignelli and the New York City Transit Authority 'The Metropolitan Transportation Authority revised map of the rapid transit facilities of New York City Transit Authority' 1972."
     credit: "David Rumsey Historical Map Collection"
 
