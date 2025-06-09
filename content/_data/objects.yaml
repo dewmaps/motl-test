@@ -39,7 +39,7 @@ object_list:
     dimensions: 45 x 45 cm 
     location: David Rumsey Historical Map Collection
     figure:
-      - id: "nycsubway"
+      - id: "nycsubway1"
 
   - id: 4
     title: Carte ethnographique de l'Europe

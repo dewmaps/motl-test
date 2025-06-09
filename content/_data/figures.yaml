@@ -110,19 +110,12 @@ figure_list:
     caption: "Jouzas Gabrys, *Carte Ethnographique de l'Europe*, 1918. Shows the ethnography of Europe, including eastern Europe, parts of Russia and Turkey."
     credit: Normal B. Leventhal Map & Education 
 
-  - id: "nycsubway"
+  - id: "nycsubway1"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/canvas/c1 
     src: nycsubway1.jpg
     caption: "*Massimo Vignelli and the New York City Transit Authority 'The Metropolitan Transportation Authority revised map of the rapid transit facilities of New York City Transit Authority' 1972."
     credit: "David Rumsey Historical Map Collection"
-
-  - id: "ctamap"
-    src: ctamap.jpg
-    caption: "Map of current L lines"
-    credit: "City of Chicago"
-    zoom: true
-
 
   - id: "usgs-topog"
     src: usgs-topog.jpg
