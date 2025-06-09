@@ -9,7 +9,7 @@ Numerous small and large variations in lines allow mapmakers to communicate all 
 
 The amazing variety in types of lines is most apparent in texts that explicitly teach mapmaking, a few of which you can see in the examples below. 
 
-
+{% figure 'conventionalsigns' %}
 
 *Institutions Standardize Map Lines*
 
