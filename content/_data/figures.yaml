@@ -138,6 +138,19 @@ figure_list:
     caption: "Ed Fairburn, *Borrowdale, United Kingdom,* 2017"
     credit: "Newberry Library"
 
+  - id: "jansson"
+    manifestId: https://www.loc.gov/item/87690703/manifest.json
+    canvasId: https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3270:g3270:ct007259
+    src: janjansson.jpg
+    caption: "Jan Jansson, * Nova et accvrata Poli Arctici et terrarum circum iacentium descriptio*, 1637."
+    credit: "The Library of Congress"
+
+
+
+
+
+
+
   - id: "mother-variants"
     label: "Figure 1.1"
     caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
