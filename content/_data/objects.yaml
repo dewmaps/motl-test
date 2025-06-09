@@ -149,3 +149,14 @@ object_list:
     location: Newberry Library
     figure:
       - id: "frenchmarine"
+
+  - id: 16
+    title: Borrowdale, United Kingdom
+    year: 2017
+    artist: Ed Fairburn
+    dimensions: 21 x 26 cm 
+    medium: acrylic on found paper
+    location: Newberry Library
+    figure:
+      - id: "fairburn"
+

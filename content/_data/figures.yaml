@@ -141,6 +141,11 @@ figure_list:
     caption: "Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré,*Plan du Cul-de-Sac Marin (Ile de la Martinique)*, Paris: Dépôt-général de la Marine, 1828."
     credit: "Newberry Library"
 
+  - id: "fairburn"
+    src: fairburn.jpg
+    caption: "Ed Fairburn, *Borrowdale, United Kingdom,* 2017"
+    credit: "Newberry Library"
+
   - id: "mother-variants"
     label: "Figure 1.1"
     caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
