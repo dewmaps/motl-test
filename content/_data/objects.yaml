@@ -142,10 +142,10 @@ object_list:
       - id: "buache"
 
   - id: 15
-    title: Plan du Cul-de-Sac Marin (Ile de la Martinique)
+    title: Plan du Cul-de-Sac Marin 
     year: 1828
     artist: Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré
     medium: Engraving on paper  
-    location: Newberry Library, French Marine Collection
+    location: Newberry Library
     figure:
       - id: "frenchmarine"
