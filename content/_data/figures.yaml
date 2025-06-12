@@ -138,7 +138,7 @@ figure_list:
     credit: "The Library of Congress"
 
   - id: "equatorialusgs"
-    manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest 
+    manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/1831jp041/canvas/gh93p108q
     src: equatorialazimuthal-usgs.jpg
     caption: "U.S. Coast and Geodetic Survey, *Equatorial azimuthal equidistant projection*, ca. 1940-1949."
