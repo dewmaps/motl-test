@@ -145,8 +145,12 @@ figure_list:
     caption: "Jan Jansson, * Nova et accvrata Poli Arctici et terrarum circum iacentium descriptio*, 1637."
     credit: "The Library of Congress"
 
-
-
+  - id:
+    manifestId:
+    canvasId:
+    src:
+    caption:
+    credit:
 
 
 
