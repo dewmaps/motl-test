@@ -170,4 +170,13 @@ object_list:
     figure:
       - id: "jansson"
     
-
+  - id: 18
+    title: Equatorial azimuthal equidistant projection 
+    year: ca. 1940–1949
+    artist: U.S. Coast and Geodetic Survey 
+    dimensions: 86 x 86 cm
+    medium: Offset lithography on paper
+    location: Norman B. Leventhal Map & Education Center 
+    figure:
+      - id: "equatorialusgs"
+    
