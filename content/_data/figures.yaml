@@ -148,26 +148,28 @@ figure_list:
 
   - id: "guiasescalada"
     src: mexicoaveracruz.jpg
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6 
     caption: "Guías Escalada, *Mexico*, 1938."
     credit: "Newberry Library"
     zoom: true
 
   - id: "rauschenberg"
     src: rauschenberg.jpg
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
     caption: "Robert Rauschenberg, 'Composition from Tares,' 1972."
     credit: "Newberry Library"
     zoom: true
 
   - id: "'desbarres"
     src: desbarres.jpg
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40ZI1 
     caption: "Look closely at the lower center of the map. The line heading west from Crumb Creek shows a river but what it intersects is the illusion of ripped paper."
     credit: "Newberry Library"
     zoom: true
 
-  - id: 
+  - id: "polarjourneys"
+    src: chartofthesouthpolarsea.jpg
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ER6X 
+    caption:
+    credit:
+
 
 
 
