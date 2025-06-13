@@ -228,3 +228,13 @@ object_list:
     location: Newberry Library
     figure:
       - id: "louisiana"
+
+  - id: 24
+    title: "*Horizon de Paris dedié a son Altesse Monseigneur l'Archeveque de Cambray, Pair de France, Prince du S. Empire, Comte du Cambresis*"
+    year: 1739
+    artist: Unknown
+    dimensions: 48 cm diameter on sheet 61 x 84 cm 
+    medium: Hand-colored engraving on paper 
+    location: Newberry Library
+    figure:
+      - id: "horizondeparis"
