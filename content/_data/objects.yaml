@@ -179,4 +179,25 @@ object_list:
     location: Norman B. Leventhal Map & Education Center 
     figure:
       - id: "equatorialusgs"
+
+  - id: 19
+    title: "'México a Veracruz' in *México*"
+    year: ca. 1938
+    artist: Guías Escalada
+    dimensions: 23 cm
+    location: Newberry Library
+    figure: 
+      - id: "guiasescalada"
+
+  - id: 20
+    title: "Untitled print #47 from Tares"
+    year: "1972"
+    artist: Robert Rauschenberg
+    dimensions: sheet 83 x 60 cm
+    medium: Collage of printed maps and magazine and newspaper clippings 
+    location: Newberry Library
+    figure:
+      - id: "rauschenberg"
+
+  
     
