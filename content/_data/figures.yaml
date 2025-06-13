@@ -65,9 +65,9 @@ figure_list:
     credit: "David Rumsey Historical Map Collection"
 
   - id: "universale"
-    src: universale.jpg
+    src: universale1.jpg
     caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
-    credit: The Library of Congress, Geography and Map Division
+    credit: The Newberry Library
     zoom: true
 
   - id: "physio-diagram"
@@ -144,7 +144,7 @@ figure_list:
     caption: "U.S. Coast and Geodetic Survey, *Equatorial azimuthal equidistant projection*, ca. 1940-1949."
     credit: "Norman B. Leventhal Map & Education Center"
 
-
+  - id: 
 
   - id: "mother-variants"
     label: "Figure 1.1"
