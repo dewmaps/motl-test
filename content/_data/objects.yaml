@@ -238,3 +238,32 @@ object_list:
     location: Newberry Library
     figure:
       - id: "horizondeparis"
+
+  - id: 25
+    title: "“Eight projections” in *Isometric systems in isotropic space: map projections: from the study of distortions series, 1973-1979*"
+    year: 1979
+    artist: Agnes Denes
+    dimensions:
+    medium: Offset lithography on paper 
+    location: Newberry Library
+    figure:
+      - id: "denes"
+
+  - id: 26
+    title: "*Tegg's new plan of London, &c with 360 references to the principal streets, &c.,*"
+    year: 1831
+    artist: Thomas Tegg 
+    dimensions: 35 x 60 cm
+    medium: Hand-colored engraving on paper, dissected and mounted on linen
+    location: Newberry Library
+    figure: 
+      - id: "tegglondon" 
+
+  - id: 27
+    title: "“Kentucky—Tennessee” in *Rand McNally road atlas of the United States, Canada and Mexico*"
+    year: 1951
+    artist: Rand McNally
+    dimensions: 40 cm 
+    location: Newberry Library
+    figure: 
+      - id: "randmcnallykytn"
