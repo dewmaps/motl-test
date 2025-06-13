@@ -113,7 +113,6 @@ figure_list:
     src: usgs-topog.jpg
     caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950 "
     credit: "Newberry Library"
-    zoom: true
 
   - id: "heezen"
     src: heezen.jpg
@@ -124,13 +123,11 @@ figure_list:
     src: frenchmarine.jpg
     caption: "Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré,*Plan du Cul-de-Sac Marin (Ile de la Martinique)*, Paris: Dépôt-général de la Marine, 1828."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "fairburn"
     src: fairburn.jpg
     caption: "Ed Fairburn, *Borrowdale, United Kingdom,* 2017"
     credit: "Newberry Library"
-    zoom: true
 
   - id: "jansson"
     manifestId: https://www.loc.gov/item/87690703/manifest.json
@@ -150,31 +147,26 @@ figure_list:
     src: mexicoaveracruz.jpg
     caption: "Guías Escalada, *Mexico*, 1938."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "rauschenberg"
     src: rauschenberg.jpg
     caption: "Robert Rauschenberg, 'Composition from Tares,' 1972."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "desbarres"
     src: desbarres.jpg
     caption: "Look closely at the lower center of the map. The line heading west from Crumb Creek shows a river but what it intersects is the illusion of ripped paper."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "chartofthesouthpolarsea"
     src: chartofthesouthpolarsea.jpg
     caption: "If you look closely at the lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "louisiana"
     src: louisiana.jpg
     caption: "William J. McCulloh, *Map of Louisiana Representing the Several Land Districts*, 1858." 
     credit: "Newberry Library"
-    zoom: true
 
   - id: "horizondeparis"
     src: horizondeparis.jpg
@@ -195,7 +187,6 @@ figure_list:
     src: randmcnally-kytn.jpg
     caption: "“Kentucky—Tennessee” in *Rand McNally road atlas of the United States, Canada and Mexico*"
     credit: "Newberry Library"
-    zoom: true
 
 
 
