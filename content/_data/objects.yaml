@@ -207,7 +207,7 @@ object_list:
     medium: Hand-colored engraving and etching on paper  
     location: Newberry Library
     figure:
-      - id: 
+      - id: "desbarres"
     
   - id: 22
     title: "*Chart of the South Polar Sea*"
@@ -254,7 +254,7 @@ object_list:
     year: 1831
     artist: Thomas Tegg 
     dimensions: 35 x 60 cm
-    medium: Hand-colored engraving on paper, dissected and mounted on linen
+    medium: "Hand-colored engraving on paper, dissected and mounted on linen"
     location: Newberry Library
     figure: 
       - id: "tegglondon" 
