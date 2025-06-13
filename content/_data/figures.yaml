@@ -180,7 +180,6 @@ figure_list:
     src: horizondeparis.jpg
     caption: "*Horizon de Paris dedié a son Altesse Monseigneur l'Archeveque de Cambray, Pair de France, Prince du S. Empire, Comte du Cambresis*, 1739"
     credit: "Newberry Library"
-    zoom: true
 
   - id: "denes"
     src: denes.jpg
