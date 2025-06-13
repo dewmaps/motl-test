@@ -153,6 +153,14 @@ figure_list:
     credit: "Newberry Library"
     zoom: true
 
+  - id: "rauschenberg"
+    src: rauschenberg.jpg
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
+    caption: "Robert Rauschenberg, 'Composition from Tares,' 1972."
+    credit: "Newberry Library"
+    zoom: true
+
+
   - id: "mother-variants"
     label: "Figure 1.1"
     caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
