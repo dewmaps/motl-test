@@ -209,3 +209,13 @@ object_list:
     figure:
       - id: 
     
+  - id: 22
+    title: "*Chart of the South Polar Sea*"
+    year: ca. 1841
+    artist: Hydrographic Office of the Admiralty
+    dimensions: 63 cm diameter
+    medium: Engraving with manuscript notes in pencil and red and blue ink added by John Edward Davis.
+    location: Newberry Library
+    figure:
+      - id: "chartofthesouthpolarsea"
+
