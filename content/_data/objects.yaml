@@ -64,7 +64,7 @@ object_list:
     year: 1720
     artist: R. Mount and T. Page
     dimensions: 447 x 563 mm (neat line), on sheet remargined to 486 x 596 mm
-    location: The Newberry Library
+    location: Newberry Library
     figure:
       - id: "generallchart"
 
@@ -219,3 +219,12 @@ object_list:
     figure:
       - id: "chartofthesouthpolarsea"
 
+  - id: 23
+    title: "*Map of Louisiana Representing the Several Land Districts*"
+    year: 1858
+    artist: William J. McCulloh
+    dimensions: 39 x 41 cm 
+    medium: Hand-colored lithography on paper 
+    location: Newberry Library
+    figure:
+      - id: "louisiana"

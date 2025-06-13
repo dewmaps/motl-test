@@ -67,7 +67,7 @@ figure_list:
   - id: "universale"
     src: universale1.jpg
     caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
-    credit: The Newberry Library
+    credit: "Newberry Library"
     zoom: true
 
   - id: "physio-diagram"
@@ -84,7 +84,7 @@ figure_list:
     printImage: a-generall-chart.jpg
     src: a-generall-chart.jpg
     caption: "R. Mount and T. Page. *A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile*, 1720."
-    credit: The Newberry Library
+    credit: "Newberry Library"
 
   - id: "roadfromlondon"
     src: road-from-london.jpg
@@ -118,7 +118,7 @@ figure_list:
   - id: "heezen"
     src: heezen.jpg
     caption: "Bruce Heezen, Marie Tharp, and Maurice Ewing, 'The Floors of the Ocean,' *The Geological Society of America Special Paper 65*."
-    credit: "Credit: Project Gutenberg."
+    credit: "Newberry Library"
 
   - id: "frenchmarine"
     src: frenchmarine.jpg
@@ -170,6 +170,11 @@ figure_list:
     credit: "Newberry Library"
     zoom: true
 
+  - id: "louisiana"
+    src: louisiana.jpg
+    caption: "William J. McCulloh, *Map of Louisiana Representing the Several Land Districts*, 1858." 
+    credit: "Newberry Library"
+    zoom: true
 
 
 
