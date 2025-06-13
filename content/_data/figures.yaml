@@ -158,7 +158,7 @@ figure_list:
     credit: "Newberry Library"
     zoom: true
 
-  - id: "'desbarres"
+  - id: "desbarres"
     src: desbarres.jpg
     caption: "Look closely at the lower center of the map. The line heading west from Crumb Creek shows a river but what it intersects is the illusion of ripped paper."
     credit: "Newberry Library"
