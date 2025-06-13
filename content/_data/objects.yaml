@@ -191,7 +191,7 @@ object_list:
 
   - id: 20
     title: "Untitled print #47 from Tares"
-    year: "1972"
+    year: 1972
     artist: Robert Rauschenberg
     dimensions: sheet 83 x 60 cm
     medium: Collage of printed maps and magazine and newspaper clippings 
@@ -199,5 +199,13 @@ object_list:
     figure:
       - id: "rauschenberg"
 
-  
+  - id: 21
+    title: "“A Plan of the Delawar River” in *The Atlantic Neptune*" 
+    year: 1780
+    artist: Joseph F. W. Des Barres 
+    dimensions: 82-88 cm
+    medium: Hand-colored engraving and etching on paper  
+    location: Newberry Library
+    figure:
+      - id: 
     
