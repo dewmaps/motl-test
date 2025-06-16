@@ -272,8 +272,17 @@ object_list:
     title: "“Lapland” in The lightning columne, or, Sea-mirrour" 
     year: 1711
     artist: Theunis Jacobsz 
-    dimensions: 
+    dimensions: 44 cm 
     medium: Engraving on paper 
     location: Newberry Library
     figure: 
       - id: "lapland"
+  
+  - id: 29
+    title: "*Karte der Bundeswasserstrassen 1:10,000: Verkehrskarte. Donau*"
+    year: 1975
+    artist: Wasser- und Schiffahrtsdirektion Süd. 
+    medium: Offset lithography on paper
+    location: Newberry Library
+    figure:
+      - id: "kartederbundes" 

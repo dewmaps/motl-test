@@ -193,6 +193,15 @@ figure_list:
     caption: "If you look closely at the borders distinguishing these maps, you can see the rhumb lines continue across them."
     credit: "Newberry Library"
 
+  - id: "kartederbundes"
+    src: karte-der-bundeswasserstrassen.jpg
+    caption: "Here the Danube unfurls across multiple folded segments. This is only a small portion of a much longer map."
+    credit: "Newberry Library"
+
+
+
+
+
 
   - id: "mother-variants"
     label: "Figure 1.1"
