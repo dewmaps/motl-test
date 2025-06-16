@@ -188,6 +188,10 @@ figure_list:
     caption: "“Kentucky—Tennessee” in *Rand McNally road atlas of the United States, Canada and Mexico*"
     credit: "Newberry Library"
 
+  - id: "lapland"
+    src: lapland.jpg
+    caption: "If you look closely at the borders distinguishing these maps, you can see the rhumb lines continue across them."
+    credit: "Newberry Library"
 
 
   - id: "mother-variants"

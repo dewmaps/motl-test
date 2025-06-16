@@ -267,3 +267,13 @@ object_list:
     location: Newberry Library
     figure: 
       - id: "randmcnallykytn"
+
+  - id: 28
+    title: "“Lapland” in The lightning columne, or, Sea-mirrour" 
+    year: 1711
+    artist: Theunis Jacobsz 
+    dimensions: 
+    medium: Engraving on paper 
+    location: Newberry Library
+    figure: 
+      - id: "lapland"
