@@ -185,11 +185,13 @@ figure_list:
     src: denes.jpg
     caption: "“Eight projections” in *Isometric systems in isotropic space: map projections: from the study of distortions series, 1973-1979*"
     credit: "Newberry Library"
+    zoom: true
 
   - id: "tegglondon"
     src: tegglondon.jpg
     caption: "*Tegg's new plan of London, &c with 360 references to the principal streets, &c.,*"
     credit: "Newberry Library"
+    zoom: true
 
   - id: "randmcnallykytn"
     src: randmcnally-kytn.jpg
