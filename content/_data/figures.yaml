@@ -209,7 +209,12 @@ figure_list:
     caption: "Image captured during an installation of Tonika Johnson's *Folded Map Project*"
     credit: "Tonika Johnson"
 
-
+  - id: "audiotest" 
+    poster: audiotext.jpg 
+    media_id: 881273542 
+    media_type: soundcloud  
+    caption: "A test for *A Dip in the Lake* audios" 
+    credit: "Newberry Library" 
 
 
 
