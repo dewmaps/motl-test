@@ -66,11 +66,13 @@ figure_list:
     caption: "Edward Stanford, Map of London and Its Suburbs, 1866."
     credit: "David Rumsey Historical Map Collection"
 
-  - id: "universale"
+  - id: "universale1"
     src: universale1.jpg
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT89T0
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6
+    printImage: universale1.jpg
     caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "physio-diagram"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/manifest
@@ -209,6 +211,20 @@ figure_list:
     src: foldedmapinstall.jpg
     caption: "Image captured during an installation of Tonika Johnson's *Folded Map Project*"
     credit: "Tonika Johnson"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   - id: "mother-variants"

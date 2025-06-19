@@ -85,7 +85,7 @@ object_list:
     dimensions: 41 x 75 cm.
     location: The Library of Congress, Geography and Map Division
     figure:
-      - id: "universale"
+      - id: "universale1"
 
   - id: 9
     title: Stanford's Library Map of London and Its Suburbs
