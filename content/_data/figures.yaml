@@ -70,6 +70,9 @@ figure_list:
     src: universale1.jpg
     caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
     credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT89T0 
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6 
+    printImage: universale1.jpg 
 
   - id: "physio-diagram"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/manifest
@@ -124,6 +127,9 @@ figure_list:
     src: frenchmarine.jpg
     caption: "Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré,*Plan du Cul-de-Sac Marin (Ile de la Martinique)*, Paris: Dépôt-général de la Marine, 1828."
     credit: "Newberry Library"
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4039K  
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4039K 
+    printImage: frenchmarine.jpg 
 
   - id: "fairburn"
     src: fairburn.jpg
