@@ -118,8 +118,8 @@ figure_list:
     caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950 "
     credit: "Newberry Library"
 
-  - id: "heezen"
-    src: heezen.jpg
+  - id: "heezen1"
+    src: heezen1.jpg
     caption: "Bruce Heezen, Marie Tharp, and Maurice Ewing, 'The Floors of the Ocean,' *The Geological Society of America Special Paper 65*."
     credit: "Newberry Library"
 
