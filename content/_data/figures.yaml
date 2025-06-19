@@ -203,13 +203,7 @@ figure_list:
     caption: "Map created by John Cage for his musical score, *A Dip in the Lake: Ten Quicksteps, Sixty-two Waltzes, and Fifty-six Marches for Chicago and Vicinity*"
     credit: "Terra Foundation for American Art"
 
-  - id: "audiotest"
-    poster:
-    media_id: 
-    media_type:  
-    caption: 
-    credit: 
-    - id: "cva-podcast"
+
 
   - id: "mother-variants"
     label: "Figure 1.1"
