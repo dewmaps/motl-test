@@ -239,7 +239,8 @@ figure_list:
     caption: "Here the Danube unfurls across multiple folded segments. This is only a small portion of a much longer map."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT85MG
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8J7LD6B
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8JRTI37
+    printImage: karte-der-bundeswasserstrassen.jpg 
 
   - id: "johncagemap" 
     src: adipinthelake.jpg 
