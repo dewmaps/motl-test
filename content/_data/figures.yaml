@@ -13,9 +13,11 @@ figure_list:
 
   - id: "conventionalsigns2"
     src: conventionalsigns.jpg
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40BF7
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40BF7 
+    printimage: conventionalsigns.jpg
     caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
     credit: "Newberry Library"
-    zoom: true
 
   - id: "buache"
     src: philippebuache.jpg
