@@ -204,12 +204,11 @@ figure_list:
     credit: "Terra Foundation for American Art"
 
   - id: "audiotest"
-    poster:
-    media_id: 
-    media_type:  
-    caption: 
-    credit: 
-    - id: "cva-podcast"
+    poster: audiotext.jpg
+    media_id: 881273542
+    media_type: soundcloud 
+    caption: "A test for *A Dip in the Lake* audios"
+    credit: "Newberry Library"
 
   - id: "mother-variants"
     label: "Figure 1.1"
