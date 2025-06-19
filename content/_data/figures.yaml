@@ -198,7 +198,10 @@ figure_list:
     caption: "Here the Danube unfurls across multiple folded segments. This is only a small portion of a much longer map."
     credit: "Newberry Library"
 
-
+  - id: "johncagemap"
+    src: adipinthelake.jpg
+    caption: "Map created by John Cage for his musical score, *A Dip in the Lake: Ten Quicksteps, Sixty-two Waltzes, and Fifty-six Marches for Chicago and Vicinity*"
+    credit: "Terra Foundation for American Art"
 
 
 
