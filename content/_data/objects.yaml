@@ -296,3 +296,10 @@ object_list:
     location: The Museum of Contemporary Art Chicago 
     figure:  
       - id: "johncagemap" 
+
+  - id: 31
+    title: "Installation of the *Folded Map Project*"
+    year: ca. 2017
+    artist: Tonika Johnson
+    figure: 
+      - id: "fmpinstall" 
