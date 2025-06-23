@@ -259,7 +259,14 @@ figure_list:
     caption: "A test for *A Dip in the Lake* audios" 
     credit: "Newberry Library" 
 
+  - id: "cagecover"
+    src: cagemusiccover.jpg
+    caption: "Cover from the score for John Cage's *A Dip in the Lake*"
 
+  - id: "cagesheet"
+    src: cagemusicsheet.jpg 
+    caption: "Page from the score for *A Dip in the Lake*"  
+    
 
 
 
