@@ -296,6 +296,8 @@ object_list:
     location: The Museum of Contemporary Art Chicago 
     figure:  
       - id: "johncagemap" 
+      - id: "cagecover" 
+      - id: "cagesheet"
 
   - id: 31
     title: "Installation of the *Folded Map Project*"
