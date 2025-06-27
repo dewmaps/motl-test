@@ -45,7 +45,8 @@ object_list:
     title: "*Carte ethnographique de l'Europe*"
     year: 1918
     artist: J. Gabrys
-    dimensions: 81 x 107 cm 
+    dimensions: 81 x 107 cm
+    medium: Chromolithography  
     location: Norman B. Leventhal Map & Education Center
     figure:
       - id: "carteethno"
@@ -167,29 +168,29 @@ object_list:
       - id: "fairburn"
 
   - id: 17
-    title: Nova et accvrata Poli Arctici et terrarum circum iacentium descriptio
+    title: "*Nova et accvrata Poli Arctici et terrarum circum iacentium descriptio*"
     year: 1673
     artist: Jan Jansson
     dimensions: 40 x 51 cm
-    medium: Hand-colored engraving on paper 
+    medium: Hand-colored engraving  
     location: Newberry Library
     figure:
       - id: "jansson"
     
   - id: 18
     title: Equatorial azimuthal equidistant projection 
-    year: ca. 1940–1949
+    year: ca. 1940-1949
     artist: U.S. Coast and Geodetic Survey 
     dimensions: 86 x 86 cm
-    medium: Offset lithography on paper
+    medium: Offset lithography 
     location: Norman B. Leventhal Map & Education Center 
     figure:
       - id: "equatorialusgs"
 
   - id: 19
     title: "'Mexico a Veracruz' in *Mexico*"
-    year: ca. 1938
-    artist: Guías Escalada
+    year: ca. 1938-39
+    artist: Guias Escalada
     dimensions: 23 cm
     location: Newberry Library
     figure: 
@@ -210,7 +211,7 @@ object_list:
     year: 1780
     artist: Joseph F. W. Des Barres 
     dimensions: 82-88 cm
-    medium: Hand-colored engraving and etching on paper  
+    medium: Hand-colored engraving and etching 
     location: Newberry Library
     figure:
       - id: "desbarres"
@@ -230,7 +231,7 @@ object_list:
     year: 1858
     artist: William J. McCulloh
     dimensions: 39 x 41 cm 
-    medium: Hand-colored lithography on paper 
+    medium: Hand-colored lithography 
     location: Newberry Library
     figure:
       - id: "louisiana"
@@ -240,7 +241,7 @@ object_list:
     year: 1739
     artist: Unknown
     dimensions: 48 cm diameter on sheet 61 x 84 cm 
-    medium: Hand-colored engraving on paper 
+    medium: Hand-colored engraving 
     location: Newberry Library
     figure:
       - id: "horizondeparis"
@@ -249,14 +250,13 @@ object_list:
     title: "“Eight projections” in *Isometric systems in isotropic space: map projections: from the study of distortions series, 1973-1979*"
     year: 1979
     artist: Agnes Denes
-    dimensions:
-    medium: Offset lithography on paper 
+    medium: Offset lithography 
     location: Newberry Library
     figure:
       - id: "denes"
 
   - id: 26
-    title: "*Tegg's new plan of London, &c with 360 references to the principal streets, &c.,*"
+    title: "*Tegg's new plan of London, &c with 360 references to the principal streets, &c.*"
     year: 1831
     artist: Thomas Tegg 
     dimensions: 35 x 60 cm
@@ -270,16 +270,17 @@ object_list:
     year: 1951
     artist: Rand McNally
     dimensions: 40 cm 
+    medium: Offset lithography
     location: Newberry Library
     figure: 
       - id: "randmcnallykytn"
 
   - id: 28
-    title: "“Lapland” in The lightning columne, or, Sea-mirrour" 
+    title: "“Lapland” in *The lightning columne, or, Sea-mirrour*" 
     year: 1711
     artist: Theunis Jacobsz 
     dimensions: 44 cm 
-    medium: Engraving on paper 
+    medium: Engraving
     location: Newberry Library
     figure: 
       - id: "lapland"
@@ -288,7 +289,7 @@ object_list:
     title: "*Karte der Bundeswasserstrassen 1:10,000: Verkehrskarte. Donau*"
     year: 1975
     artist: Wasser- und Schiffahrtsdirektion Süd. 
-    medium: Offset lithography on paper
+    medium: Offset lithography
     location: Newberry Library
     figure:
       - id: "kartederbundes" 
