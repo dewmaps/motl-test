@@ -71,7 +71,7 @@ figure_list:
     caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT89T0  
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40IJB  
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40J8Q   
     printImage: universale1.jpg 
 
   - id: "physio-diagram"
