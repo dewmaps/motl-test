@@ -182,7 +182,7 @@ figure_list:
     src: chartofthesouthpolarsea.jpg
     caption: "If you look closely at the lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
     credit: "Newberry Library"
-    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8CB3f 
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8CB3  
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ER6X
     printImage: chartofthesouthpolarsea.jpg
 
