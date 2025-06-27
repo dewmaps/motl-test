@@ -166,8 +166,8 @@ figure_list:
     src: rauschenberg.jpg
     caption: "Robert Rauschenberg, 'Composition from Tares,' 1972."
     credit: "Newberry Library"
-    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8JRH
-    canvasId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8JRH 
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8JRH 
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
     printImage: rauschenberg.jpg
 
   - id: "desbarres"
