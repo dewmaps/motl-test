@@ -64,6 +64,7 @@ object_list:
     year: 1720
     artist: R. Mount and T. Page
     dimensions: 447 x 563 mm (neat line), on sheet remargined to 486 x 596 mm
+    medium: Engraving on paper
     location: Newberry Library
     figure:
       - id: "generallchart"
@@ -73,16 +74,18 @@ object_list:
     year: 1957
     artist: Marie Tharp and Bruce Heezen
     dimensions: 77 x 142 cm 
+    medium: Offset lithography
     location: David Rumsey Historical Map Collection
     figure:
       - id: "physio-diagram"  
 
 
   - id: 8
-    title: Universale descrittione di tutta la terra conosciuta fin qui
+    title: "*Universale descrittione di tutta la terra conosciuta fin qui*" 
     year: 1565
     artist: Ferando Bertelli
     dimensions: 41 x 75 cm.
+    medium: Hand-colored engraving
     location: The Library of Congress, Geography and Map Division
     figure:
       - id: "universale1"
@@ -97,10 +100,11 @@ object_list:
       - id: "stanfordslondon"
 
   - id: 10
-    title: Carta general de la República Mexicana
+    title: "*Carta general de la República Mexicana*"
     year: 1863
     artist: Antonio García Cubas
     dimensions: 125 x 146 cm.
+    medium: Hand-colored lithography
     location: David Rumsey Historical Map Collection
     figure:
       - id: "carta-general"
@@ -119,6 +123,7 @@ object_list:
     year: 1858
     artist: Antonio García Cubas
     dimensions: 51 x 68 cm.
+    medium: Hand-colored lithography
     location: David Rumsey Historical Map Collection
     figure:
       - id: "carta-general-58"           
@@ -133,16 +138,17 @@ object_list:
       - id: "carta-general-99"
 
   - id: 14
-    title: Carte Physique de ou Geographie Naturelle de la France
+    title: "“Carte Physique ou Géographie Naturelle de la France” in *Cartes et tables de la géographie physique ou naturelle*"
     year: 1770
     artist: Philippe Buache
     dimensions: 39 x 50 cm. 
+    medium: Hand-colored engraving
     location: David Rumsey Historical Map Collection
     figure:
       - id: "buache"
 
   - id: 15
-    title: Plan du Cul-de-Sac Marin 
+    title: "*Plan du Cul-de-Sac Marin (Ile de la Martinique)*"
     year: 1828
     artist: Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré
     medium: Engraving on paper  
@@ -151,11 +157,11 @@ object_list:
       - id: "frenchmarine"
 
   - id: 16
-    title: Borrowdale, United Kingdom
+    title: Untitled, in Borrowdale, United Kingdom
     year: 2017
     artist: Ed Fairburn
     dimensions: 21 x 26 cm 
-    medium: acrylic on found paper
+    medium: Acrylic on found paper
     location: Newberry Library
     figure:
       - id: "fairburn"
