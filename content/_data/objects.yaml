@@ -42,16 +42,16 @@ object_list:
       - id: "nycsubway1"
 
   - id: 4
-    title: Carte ethnographique de l'Europe
+    title: "*Carte ethnographique de l'Europe*"
     year: 1918
     artist: J. Gabrys
-    dimensions: 81 x 107 cm + text (21 pages ; 21 cm)
+    dimensions: 81 x 107 cm 
     location: Norman B. Leventhal Map & Education Center
     figure:
       - id: "carteethno"
 
   - id: 5
-    title: Road from London
+    title: "'The Continuation of ye Road from London to Barstable' in *Britannia, Volume the First*"
     year: 1675
     artist: John Ogilby
     dimensions: 33 x 46 cm 
