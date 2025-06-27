@@ -24,7 +24,6 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/canvas/c1
     printimage: philippebuache.jpg
-    caption: "Philippe Bauche, *France*, 1770"
     Credit: "David Rumsey Historical Map Collection"
 
   - id: "carta-general"
@@ -32,7 +31,6 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1
     printImage: cartageneral.jpg
-    caption: "Antonio García Cubas *Carta general de la República Mexicana*, 1863."
     credit: "David Rumsey Historical Map Collection"   
 
   - id: "hidalgo"
@@ -68,7 +66,6 @@ figure_list:
 
   - id: "universale1"
     src: universale1.jpg
-    caption: "Ferando Bertelli, *Universale descrittione di tutta la terra conosciuta fin qui*, 1565. Based on an earlier map by Giacomo Gastaldi."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT89T0  
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40J8Q   
@@ -87,7 +84,6 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
     printImage: a-generall-chart.jpg
     src: a-generall-chart.jpg
-    caption: "R. Mount and T. Page. *A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile*, 1720."
     credit: "Newberry Library"
 
   - id: "roadfromlondon"
@@ -95,7 +91,6 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
     printImage: road-from-london.jpg
-    caption: "From *Britannia, Volume the First. Or an Illustration of the Kingdom of England and Dominion of Wales* by John Ogilby."
     credit: David Rumsey Historical Map Collection
 
   - id: "carteethno"
@@ -110,7 +105,6 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/canvas/c1 
     src: nycsubway1.jpg
-    caption: "*Massimo Vignelli and the New York City Transit Authority 'The Metropolitan Transportation Authority revised map of the rapid transit facilities of New York City Transit Authority' 1972."
     credit: "David Rumsey Historical Map Collection"
 
   - id: "usgs-topog"
@@ -125,7 +119,6 @@ figure_list:
 
   - id: "frenchmarine"
     src: frenchmarine.jpg
-    caption: "Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré,*Plan du Cul-de-Sac Marin (Ile de la Martinique)*, Paris: Dépôt-général de la Marine, 1828."
     credit: "Newberry Library"
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4039K    
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR8A3 
@@ -133,7 +126,6 @@ figure_list:
 
   - id: "fairburn"
     src: fairburn.jpg
-    caption: "Ed Fairburn, *Borrowdale, United Kingdom,* 2017"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8PLC
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40SXQ  
@@ -144,19 +136,16 @@ figure_list:
     manifestId: https://www.loc.gov/item/87690703/manifest.json
     canvasId: https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3270:g3270:ct007259
     src: janjansson.jpg
-    caption: "Jan Jansson, * Nova et accvrata Poli Arctici et terrarum circum iacentium descriptio*, 1637."
     credit: "The Library of Congress"
 
   - id: "equatorialusgs"
     manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/1831jp041/canvas/gh93p108q
     src: equatorialazimuthal-usgs.jpg
-    caption: "U.S. Coast and Geodetic Survey, *Equatorial azimuthal equidistant projection*, ca. 1940-1949."
     credit: "Norman B. Leventhal Map & Education Center"
 
   - id: "guiasescalada"
     src: mexicoaveracruz.jpg
-    caption: "Guías Escalada, *Mexico*, 1938."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8XEY
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6
@@ -164,7 +153,6 @@ figure_list:
 
   - id: "rauschenberg"
     src: rauschenberg.jpg
-    caption: "Robert Rauschenberg, 'Composition from Tares,' 1972."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8JRH 
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
@@ -180,7 +168,7 @@ figure_list:
 
   - id: "chartofthesouthpolarsea"
     src: chartofthesouthpolarsea.jpg
-    caption: "If you look closely at the lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
+    caption: "If you examine the journey lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8CB3  
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ER6X
@@ -188,7 +176,6 @@ figure_list:
 
   - id: "louisiana"
     src: louisiana.jpg
-    caption: "William J. McCulloh, *Map of Louisiana Representing the Several Land Districts*, 1858." 
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8M4E
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ENQD
@@ -196,7 +183,6 @@ figure_list:
 
   - id: "horizondeparis"
     src: horizondeparis.jpg
-    caption: "*Horizon de Paris dedié a son Altesse Monseigneur l'Archeveque de Cambray, Pair de France, Prince du S. Empire, Comte du Cambresis*, 1739"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8T8T
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40O37
@@ -204,7 +190,6 @@ figure_list:
 
   - id: "denes"
     src: denes.jpg
-    caption: "“Eight projections” in *Isometric systems in isotropic space: map projections: from the study of distortions series, 1973-1979*"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT843L
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4KFSK 
@@ -212,7 +197,6 @@ figure_list:
 
   - id: "tegglondon"
     src: tegglondon.jpg
-    caption: "*Tegg's new plan of London, &c with 360 references to the principal streets, &c.,*"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT88YY
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4EA9D
@@ -220,7 +204,6 @@ figure_list:
 
   - id: "randmcnallykytn"
     src: randmcnally-kytn.jpg
-    caption: "“Kentucky—Tennessee” in *Rand McNally road atlas of the United States, Canada and Mexico*"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LARBS6 
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P401EX
@@ -228,7 +211,7 @@ figure_list:
 
   - id: "lapland"
     src: lapland.jpg
-    caption: "If you look closely at the borders distinguishing these maps, you can see the rhumb lines continue across them."
+    caption: "At the borders distinguishing these maps, the rhumb lines continue across them."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT86O3
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40UGR
