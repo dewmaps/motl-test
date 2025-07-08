@@ -167,6 +167,7 @@ object_list:
     dimensions: 86 x 86 cm
     medium: Offset lithography 
     location: Norman B. Leventhal Map & Education Center 
+    link: https://collections.leventhalmap.org/search/commonwealth:1831jp041 
     figure:
       - id: "equatorialusgs"
 
@@ -176,6 +177,7 @@ object_list:
     artist: Guias Escalada
     dimensions: 23 cm
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8PSQMU6 
     figure: 
       - id: "guiasescalada"
 
@@ -186,6 +188,7 @@ object_list:
     dimensions: sheet 83 x 60 cm
     medium: Collage of printed maps and magazine and newspaper clippings 
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40NUD?WS=AssetManagement
     figure:
       - id: "rauschenberg"
 
@@ -196,6 +199,7 @@ object_list:
     dimensions: 82-88 cm
     medium: Hand-colored engraving and etching 
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40ZI1 
     figure:
       - id: "desbarres"
     
@@ -206,6 +210,7 @@ object_list:
     dimensions: 63 cm diameter
     medium: Engraving with manuscript notes in pencil and red and blue ink added by John Edward Davis.
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4ER6X?WS=AssetManagement 
     figure:
       - id: "chartofthesouthpolarsea"
 
@@ -216,6 +221,7 @@ object_list:
     dimensions: 39 x 41 cm 
     medium: Hand-colored lithography 
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4ENQD?WS=AssetManagement
     figure:
       - id: "louisiana"
 
@@ -226,6 +232,7 @@ object_list:
     dimensions: 48 cm diameter on sheet 61 x 84 cm 
     medium: Hand-colored engraving 
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40O37?WS=AssetManagement 
     figure:
       - id: "horizondeparis"
 
@@ -235,6 +242,7 @@ object_list:
     artist: Agnes Denes
     medium: Offset lithography 
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4KFSK?WS=AssetManagement 
     figure:
       - id: "denes"
 
@@ -245,6 +253,7 @@ object_list:
     dimensions: 35 x 60 cm
     medium: "Hand-colored engraving on paper, dissected and mounted on linen"
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4EA9D?WS=AssetManagement 
     figure: 
       - id: "tegglondon" 
 
@@ -255,6 +264,7 @@ object_list:
     dimensions: 40 cm 
     medium: Offset lithography
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P401EX?WS=AssetManagement
     figure: 
       - id: "randmcnallykytn"
 
@@ -265,6 +275,7 @@ object_list:
     dimensions: 44 cm 
     medium: Engraving
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40UGR?WS=AssetManagement
     figure: 
       - id: "lapland"
   
@@ -274,6 +285,7 @@ object_list:
     artist: Wasser- und Schiffahrtsdirektion Süd. 
     medium: Offset lithography
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8LT85MG?WS=AssetManagement
     figure:
       - id: "kartederbundes" 
 
@@ -284,6 +296,7 @@ object_list:
     dimensions: 141.6 x 111.1 cm 
     medium: Felt-tip pen on printed map  
     location: The Museum of Contemporary Art Chicago 
+    link: https://mcachicago.org/collection/items/john-cage/890-a-dip-in-the-lake-ten-quicksteps-sixty-two-waltzes-and-fifty-six-marches-for-chicago-and-vicinity
     figure:  
       - id: "johncagemap" 
       - id: "cagecover" 
@@ -293,5 +306,6 @@ object_list:
     title: "Installation of the *Folded Map Project*"
     year: ca. 2017
     artist: Tonika Johnson
+    link: https://www.foldedmapproject.com/
     figure: 
       - id: "fmpinstall" 
