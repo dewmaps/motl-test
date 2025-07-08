@@ -109,7 +109,7 @@ figure_list:
 
 
   - id: "jansson"
-    src: janjansson1.jpg
+    src: jansson1.jpg
     credit: "The Library of Congress"
     zoom: true
 
