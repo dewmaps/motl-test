@@ -110,7 +110,7 @@ figure_list:
 
   - id: "jansson"
     manifestId: https://www.loc.gov/item/87690703/manifest.json
-    canvasId: https://www.loc.gov/resource/g3270.ct007259/seq-1/ 
+    canvasId: https://www.loc.gov/resource/g3270.ct007259/seq-1/
     src: janjansson.jpg
     credit: "The Library of Congress"
 
