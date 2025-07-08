@@ -38,6 +38,7 @@ object_list:
     artist: Massimo Vignelli
     dimensions: 45 x 45 cm 
     location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/15w3p7 
     figure:
       - id: "nycsubway1"
 
