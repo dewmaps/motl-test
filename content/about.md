@@ -19,7 +19,7 @@ Translators: Georgina Valverde, Gerardo García Ramis
 Gallery Preparators: Chris Cermak, Martin Hernandez, Mike Mitchell, Jason Ulane 
 
 
-The Newberry gratefully acknowledges loans from the American Geographical Society Library, The Museum of Contemporary Art Chicago, and The Art Institute of Chicago 
+The Newberry gratefully acknowledges loans from the American Geographical Society Library, and The Museum of Contemporary Art Chicago
 
 
 
