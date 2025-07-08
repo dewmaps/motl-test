@@ -49,6 +49,7 @@ object_list:
     dimensions: 81 x 107 cm
     medium: Chromolithography  
     location: Norman B. Leventhal Map & Education Center
+    link: https://collections.leventhalmap.org/search/commonwealth:jh343z959 
     figure:
       - id: "carteethno"
 
@@ -58,6 +59,7 @@ object_list:
     artist: John Ogilby
     dimensions: 33 x 46 cm 
     location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/ab4kk8 
     figure:
       - id: "roadfromlondon"
 
@@ -68,6 +70,7 @@ object_list:
     dimensions: 447 x 563 mm (neat line), on sheet remargined to 486 x 596 mm
     medium: Engraving on paper
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8ZSK4L5EB 
     figure:
       - id: "generallchart"
 
@@ -78,6 +81,7 @@ object_list:
     dimensions: 77 x 142 cm 
     medium: Offset lithography
     location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/k0lq0a 
     figure:
       - id: "physio-diagram"  
 
@@ -89,6 +93,7 @@ object_list:
     dimensions: 41 x 75 cm.
     medium: Hand-colored engraving
     location: The Library of Congress, Geography and Map Division
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40J8Q?WS=AssetManagement 
     figure:
       - id: "universale1"
 
@@ -108,6 +113,7 @@ object_list:
     dimensions: 125 x 146 cm.
     medium: Hand-colored lithography
     location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/i21fx0 
     figure:
       - id: "carta-general"
 
