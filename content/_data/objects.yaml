@@ -154,6 +154,7 @@ object_list:
     artist: Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré
     medium: Engraving on paper  
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4039K?WS=AssetManagement 
     figure:
       - id: "frenchmarine"
 
