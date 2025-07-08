@@ -64,7 +64,7 @@ object_list:
       - id: "roadfromlondon"
 
   - id: 6
-    title: A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile according to Mr. Edw. Wrights projection
+    title: "*A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile according to Mr. Edw. Wrights projection*"
     year: 1720
     artist: R. Mount and T. Page
     dimensions: 447 x 563 mm (neat line), on sheet remargined to 486 x 596 mm
@@ -75,7 +75,7 @@ object_list:
       - id: "generallchart"
 
   - id: 7
-    title: Physiographic Diagram, Atlantic Ocean (Sheet 1)
+    title: "*Physiographic Diagram, Atlantic Ocean (Sheet 1)*"
     year: 1957
     artist: Marie Tharp and Bruce Heezen
     dimensions: 77 x 142 cm 
@@ -124,11 +124,12 @@ object_list:
     dimensions: 39 x 50 cm. 
     medium: Hand-colored engraving
     location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/pfx166 
     figure:
       - id: "buache"
 
   - id: 15
-    title: "*Plan du Cul-de-Sac Marin (Ile de la Martinique)"
+    title: "*Plan du Cul-de-Sac Marin (Ile de la Martinique)*"
     year: 1828
     artist: Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré
     medium: Engraving on paper  
@@ -144,6 +145,7 @@ object_list:
     dimensions: 21 x 26 cm 
     medium: Acrylic on found paper
     location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40SXQ?WS=AssetManagement 
     figure:
       - id: "fairburn"
 
@@ -154,6 +156,7 @@ object_list:
     dimensions: 40 x 51 cm
     medium: Hand-colored engraving  
     location: Newberry Library
+    link: https://lccn.loc.gov/87690703 
     figure:
       - id: "jansson"
     
