@@ -109,10 +109,9 @@ figure_list:
 
 
   - id: "jansson"
-    manifestId: https://www.loc.gov/item/87690703/manifest.json
-    canvasId: https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3270:g3270:ct007259/full/pct:25/0/default.jpg 
-    src: janjansson.jpg
+    src: janjansson1.jpg
     credit: "The Library of Congress"
+    zoom: true
 
   - id: "equatorialusgs"
     manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest
