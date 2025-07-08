@@ -117,34 +117,6 @@ object_list:
     figure:
       - id: "carta-general"
 
-  - id: 11
-    title: Carta general de la República Mexicana
-    year: 1857
-    artist: Antonio García Cubas
-    dimensions: 40 x 35 cm.
-    location: David Rumsey Historical Map Collection
-    figure:
-      - id: "carta-general-57" 
- 
-  - id: 12
-    title: Carta general de la República Mexicana
-    year: 1858
-    artist: Antonio García Cubas
-    dimensions: 51 x 68 cm.
-    medium: Hand-colored lithography
-    location: David Rumsey Historical Map Collection
-    figure:
-      - id: "carta-general-58"           
-
-  - id: 13
-    title: Carta general de la República Mexicana
-    year: 1899
-    artist: Antonio García Cubas
-    dimensions: 22 x 32 cm. 
-    location: David Rumsey Historical Map Collection
-    figure:
-      - id: "carta-general-99"
-
   - id: 14
     title: "“Carte Physique ou Géographie Naturelle de la France” in *Cartes et tables de la géographie physique ou naturelle*"
     year: 1770
