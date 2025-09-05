@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: motlcover.jpg
+image: MOTL_notext.jpg
 
 ---
 

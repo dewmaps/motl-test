@@ -19,7 +19,7 @@ outputs:
 *Gallery Preparators*: Chris Cermak, Martin Hernandez, Mike Mitchell, Jason Ulane 
 
 
-The Newberry gratefully acknowledges loans from the American Geographical Society Library, and The Museum of Contemporary Art Chicago.
+The Newberry gratefully acknowledges loans from the American Geographical Society Library at UW-Milwaukee and The Museum of Contemporary Art Chicago.
 
 
 

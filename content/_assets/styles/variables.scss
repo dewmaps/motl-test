@@ -34,8 +34,8 @@ $quire-page-paragraph-style: line-space; // or use indent
 
 // Cover typography
 // -----------------------------------------------------------------------------
-$quire-cover-text-color: $white;
-$quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
+$quire-cover-text-color: $light-blue;
+$quire-cover-text-scale: 4; // use decimal numbers such as .8 or 1.3
 
 // Menu
 // -----------------------------------------------------------------------------
@@ -89,7 +89,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-headings-font: $times-serif !default;
   $quire-footnotes-font: $noto-sans !default;
   $quire-navigation-font: $noto-sans !default;
-  $accent-color: $blue !default;
+  $accent-color: $light-blue !default;
   $content-background-color: $white !default;
   $secondary-background-color: $content-background-color;
 } @else {
@@ -109,7 +109,7 @@ $navbar-height: 3rem;
 $quire-progress-bar-height: 2px;
 
 // Declare navbar colors
-$quire-navbar-color: #7EC4E2;
+$quire-navbar-color: $light-blue;
 $quire-navbar-hover-color: null;
 $quire-navbar-text-color: null;
 
