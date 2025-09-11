@@ -12,7 +12,7 @@ image: MOTL_notext.jpg
 *-Erwin Raisz*, Principles of Cartography  
 
  
-Lines are foundational to how maps communicate. Take, for instance, the map on your smart phone. To guide you between two places, the map shows one line and encourages you to ignore everything else. Mapmakers’ choices about the placement, density, and purpose of lines combine to make maps seem simple and objective— just follow this line and you’ll have everything you need. But these lines are rarely as straightforward as they seem. This exhibition follows lines on maps to their extremes in examples from seemingly mundane textbooks to avant-garde art. Through these lines, maps rationalize their world view, even as they reveal perspectives that are neither universal nor neutral. 
+Lines are foundational to how maps communicate. Take, for instance, the map on your smart phone. They guide you home from a new restuarant, tell you how tall a mountain is, and warn you not to stray too far in the wrong direction. They comestimes even tell you about the life a map has lived. Over centuries, mapmakers have devloped (and abandoned) an amazing variety of ways to use lines to bring our world to life. This exhibition follows lines on maps to their extremes in examples from mundane textbooks to avant-garde art. Through these lines, maps rationalize their world view, even as they reveal perspectives that are neither universal nor neutral. 
 
 
 The exhibition’s seven sections each delve into a fundamental kind of line on maps as they developed in Europe and the Americas. Chart your own path through the following pages to explore how lines define—and simultaneously subvert—the rules that make maps legible.  
