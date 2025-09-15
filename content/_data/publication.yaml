@@ -19,7 +19,7 @@ reading_line:
 short_title:
 
 description:
-  one_line:
+  one_line: A map's rules are made to be broken.
   full: "."
 
 # ------------------------------------------------------------------------------
@@ -43,11 +43,11 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: A Newberry Library exhibition
 
 contributor:
   - id: dweimer
-    type: primary
+    type: secondary
     first_name: David
     last_name: Weimer
     title: Robert A. Holland Curator of Maps and Director of the Hermon Dunlap Smith Center for the History of Cartography

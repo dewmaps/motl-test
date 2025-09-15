@@ -14,8 +14,8 @@ analytics:
 bylineFormat: name-title # name | name-title | false
 
 bibliography:
-  displayOnPage: true
-  displayShort: true
+  displayOnPage: false
+  displayShort: false
   heading: Bibliography
 
 citations:
