@@ -85,7 +85,7 @@ figure_list:
 
   - id: "usgs-topog"
     src: usgs-topog.jpg
-    caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950 "
+    caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950"
     credit: "Newberry Library"
 
   - id: "heezen1"

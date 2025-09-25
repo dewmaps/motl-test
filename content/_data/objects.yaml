@@ -309,3 +309,23 @@ object_list:
     link: https://www.foldedmapproject.com/
     figure: 
       - id: "fmpinstall" 
+
+  - id: 32
+    title: '"Conventional Signs for Topography" in *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science*'
+    year: 1870
+    artist: Joseph Enthoffer
+    dimensions: 31 x 38 cm 
+    medium: Engraving
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8LAR380
+    figure: 
+      - id: "conventionalsigns2"
+
+  - id: 33
+    title: "*Topographic Maps*"
+    year: 1950
+    artist: United States Geological Survey 
+    medium: Lithography
+    location: Newberry Library
+    figure: 
+      - id: "usgs-topog"
