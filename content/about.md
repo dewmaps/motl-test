@@ -17,8 +17,8 @@ outputs:
 *Graphic Designers*: M.N. Kennedy, Andrea Villasenor 
 
 
-The Newberry gratefully acknowledges loans from the American Geographical Society Library at UW-Milwaukee and The Museum of Contemporary Art Chicago. *Mapping Outside the Lines* is generously supported by Rand McNally.
+The Newberry gratefully acknowledges loans from the American Geographical Society Library at UW-Milwaukee and The Museum of Contemporary Art Chicago. 
 
+*Mapping Outside the Lines* is generously supported by Rand McNally.
 
-
-
+{% figure 'randmcnallylogo' %}

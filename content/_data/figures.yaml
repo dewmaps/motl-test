@@ -5,82 +5,57 @@ figure_list:
     caption: "From *Elements of Cartography, Fifth Edition* by Arthur H. Robinson,  Joel L. Morrison, and Randall D. Sale, 1984."
     credit: "Newberry Library"
 
-  - id: "conventionalsigns"
-    src: colorconventionalsigns.jpg
-    caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
-    credit: "Newberry Library"
-    zoom: false
-
   - id: "conventionalsigns2"
-    src: conventionalsigns.jpg
-    manifestId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40BF7
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR380
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40BF7 
-    printimage: conventionalsigns.jpg
     caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
     credit: "Newberry Library"
 
   - id: "buache"
-    src: philippebuache.jpg
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/canvas/c1
-    printimage: philippebuache.jpg
     Credit: "David Rumsey Historical Map Collection"
 
   - id: "carta-general"
-    src: cartageneral.jpg
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1
-    printImage: cartageneral.jpg
     credit: "David Rumsey Historical Map Collection"   
 
   - id: "stanfordslondon"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/manifest 
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/canvas/c1
-    printImage: stanfordslondon.jpg
-    src: stanfordslondon.jpg
     caption: "Edward Stanford, Map of London and Its Suburbs, 1866."
     credit: "David Rumsey Historical Map Collection"
 
   - id: "universale1"
-    src: universale1.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT89T0  
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40J8Q   
-    printImage: universale1.jpg 
 
   - id: "physio-diagram"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/canvas/c1 
-    printImage: physiographicdiagram.jpg
-    src: physiographicdiagram.jpg
     credit: David Rumsey Map Collection
 
   - id: "generallchart"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSK4L5EB
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
-    printImage: a-generall-chart.jpg
-    src: a-generall-chart.jpg
     credit: "Newberry Library"
 
   - id: "roadfromlondon"
-    src: road-from-london.jpg
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
-    printImage: road-from-london.jpg
     credit: David Rumsey Historical Map Collection
 
   - id: "carteethno"
     manifestId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/canvas/jh343z96k
-    printImage: carte-ethnographique.jpg
-    src: carte-ethnographique.jpg
     caption: "For an example of the binary logic of borders, look at the border of Slovakia and Hungary, where alternating lines of green and yellow show an area split between two ethnicities, preventing representation of other ethnic groups in the area."
     credit: Normal B. Leventhal Map & Education 
 
   - id: "nycsubway1"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/canvas/c1 
-    src: nycsubway1.jpg
     credit: "David Rumsey Historical Map Collection"
 
   - id: "usgs-topog"
@@ -94,18 +69,14 @@ figure_list:
     credit: "Newberry Library"
 
   - id: "frenchmarine"
-    src: frenchmarine.jpg
     credit: "Newberry Library"
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4039K    
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR8A3 
-    printImage: frenchmarine.jpg 
 
   - id: "fairburn"
-    src: fairburn.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8PLC
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40SXQ  
-    printImage: fairburn.jpg
 
   - id: "jansson"
     src: jansson1.jpg
@@ -115,89 +86,66 @@ figure_list:
   - id: "equatorialusgs"
     manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/1831jp041/canvas/gh93p108q
-    src: equatorialazimuthal-usgs.jpg
     credit: "Norman B. Leventhal Map & Education Center"
 
   - id: "guiasescalada"
-    src: mexicoaveracruz.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8XEY
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6
-    printImage: mexicoaveracruz.jpg
 
   - id: "rauschenberg"
-    src: rauschenberg.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8JRH 
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
-    printImage: rauschenberg.jpg
 
   - id: "desbarres"
-    src: desbarres.jpg
     caption: "Look closely at the lower center of the map. The line heading west from Crumb Creek shows a river but what it intersects is the illusion of ripped paper."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8USA
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40ZI1
-    printImage: desbarres.jpg
 
   - id: "chartofthesouthpolarsea"
-    src: chartofthesouthpolarsea.jpg
     caption: "If you examine the journey lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8CB3  
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ER6X
-    printImage: chartofthesouthpolarsea.jpg
 
   - id: "louisiana"
-    src: louisiana.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8M4E
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ENQD
-    printImage: louisiana.jpg
 
   - id: "horizondeparis"
-    src: horizondeparis.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8T8T
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40O37
-    printImage: horizondeparis.jpg
 
   - id: "denes"
-    src: denes.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT843L
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4KFSK 
-    printImage: denes.jpg 
 
   - id: "tegglondon"
-    src: tegglondon.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT88YY
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4EA9D
-    printImage: tegglondon.jpg
 
   - id: "randmcnallykytn"
-    src: randmcnally-kytn.jpg
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LARBS6 
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P401EX
-    printImage: randmcnally-kytn.jpg
 
   - id: "lapland"
-    src: lapland.jpg
     caption: "At the borders distinguishing these maps, the rhumb lines continue across them."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT86O3
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40UGR
-    printImage: lapland.jpg
 
   - id: "kartederbundes"
-    src: karte-der-bundeswasserstrassen.jpg
     caption: "Here the Danube unfurls across multiple folded segments. This is only a small portion of a much longer map."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT85MG
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8JRTOM9 
-    printImage: karte-der-bundeswasserstrassen.jpg 
 
   - id: "johncagemap" 
     src: adipinthelake.jpg 
@@ -231,81 +179,14 @@ figure_list:
     zoom: false
 
   - id: "generaldrafting"
-    src: generaldrafting.jpg
     caption: "H.M. touring guide art, General Drafting Company collection, 1927-1989"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LTR56G
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P409LW
-    printImage: generaldrafting.jpg 
+    
+  - id: "randmcnallylogo"
+    src: randmcnallylogo.jpg
+    printImage: randmcnallylogo.jpg
+    zoom: false
 
 
-
-
-
-
-
-
-
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
-
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
-
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
-
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
- 
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. American Legionnaire, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
