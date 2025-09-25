@@ -16,9 +16,10 @@ outputs:
 *Digitization Specialist*: Catherine Gass
 *Graphic Designers*: M.N. Kennedy, Andrea Villasenor 
 
+{% figure 'wynne' %}
 
 The Newberry gratefully acknowledges loans from the American Geographical Society Library at UW-Milwaukee and The Museum of Contemporary Art Chicago. 
 
 *Mapping Outside the Lines* is generously supported by Rand McNally.
 
-{% figure 'randmcnallylogo' %}
+{% figure 'randmcnallylogo', 'is-pulled-left' %}
