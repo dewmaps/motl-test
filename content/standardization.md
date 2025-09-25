@@ -25,5 +25,9 @@ Even as institutions evolved, they continued to standardize lines. Almost a cent
 
 This textbook classifies important graphic elements of maps, instructing how to best represent the hue, shape, and spacing of lines. Elsewhere, the authors comment that cartography is a rapidly growing field because of evolving techniques and innovations in technology for data gathering and machine processing. Published over 100 years after Entoffer’s manual, this textbook is an example of how scholars and scientific disciplines continually standardized and updated cartographic knowledge, down to the level of lines. 
 
+{% figure 'generaldrafting' %}
+
+{% figure 'wynne' %}
+
 
 

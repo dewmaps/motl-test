@@ -107,7 +107,6 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40SXQ  
     printImage: fairburn.jpg
 
-
   - id: "jansson"
     src: jansson1.jpg
     credit: "The Library of Congress"
@@ -223,11 +222,21 @@ figure_list:
 
   - id: "cagesheet"
     src: cagemusicsheet.jpg 
-    caption: "Page from the score for *A Dip in the Lake*"  
-    
+    caption: "Page from the score for *A Dip in the Lake*"
 
+  - id: "wynne"
+    src: wynne.jpg
+    caption: "Page from Michael Wynne's *England*"
+    credit: "Newberry Library"
+    zoom: false
 
-
+  - id: "generaldrafting"
+    src: generaldrafting.jpg
+    caption: "H.M. touring guide art, General Drafting Company collection, 1927-1989"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LTR56G
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P409LW
+    printImage: generaldrafting.jpg 
 
 
 
